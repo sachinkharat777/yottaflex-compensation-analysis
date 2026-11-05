@@ -1,0 +1,65 @@
+{
+  "project": "YottaFlex Compensation Analysis",
+  "source_type": "Synthetic compensation dataset",
+  "generated_at_utc": "2026-11-05T11:49:12.099671+00:00",
+  "database": "database/compensation.db",
+  "configuration": {
+    "seed": 20261022,
+    "employee_count": 5000,
+    "promotion_count": 500,
+    "proposal_count": 250,
+    "as_of_date": "2026-01-01",
+    "seed_offsets": {
+      "employees": 0,
+      "promotions": 100,
+      "transactions": 200,
+      "supporting": 300
+    }
+  },
+  "database_summary": {
+    "table_count": 15,
+    "total_rows": 38340,
+    "row_counts": {
+      "AdjustmentProposal": 250,
+      "ApprovalEvent": 113,
+      "AuditEvent": 364,
+      "CompensationBand": 1800,
+      "CurrencyRate": 2,
+      "Employee": 5000,
+      "EmployeeAssignment": 5500,
+      "Level": 4,
+      "Location": 3,
+      "PerformanceEvidence": 5000,
+      "Promotion": 500,
+      "ProposalEvidence": 250,
+      "Role": 50,
+      "SalaryRecord": 14504,
+      "TenureSnapshot": 5000
+    }
+  },
+  "checksums": {
+    "algorithm": "SHA-256",
+    "files": {
+      "database/compensation.db": "91210da194419c6e6249b1792231c4c8bd293ada3f4e02002e63f1f7a1a8a253",
+      "database/schema.sql": "f4fd05cb3774caf9c7a232454056fc3834b01f95a90a5315137bdb66a12ded14",
+      "outputs/exports/AdjustmentProposal.json": "46035c7058f63040bef8b2439e55bc4fdc31a0c36dd05f82bcd096dd851904c2",
+      "outputs/exports/ApprovalEvent.json": "21b912906de556e6a84f5c03fe0ab7b1bd74976c3e3bbe050bd45bdfe55a4784",
+      "outputs/exports/AuditEvent.json": "9e89e7f4af820c95bc5858dd0243efc82921c09e46a9efb130ea164bf7a6643a",
+      "outputs/exports/CompensationBand.json": "8131d107b12a269da87a69e60ddb8aa8af85a56b85bdc2bab4e0b35a9f1c34d2",
+      "outputs/exports/CurrencyRate.json": "6199594137eebe3243165f2767f9b9120ed2f0596c82d647c6a78dbaccb0a4f2",
+      "outputs/exports/Employee.json": "6eb0e75a02402e0e0aece398e279fcffc36e14e619e45ada5559f5a674637cc2",
+      "outputs/exports/EmployeeAssignment.json": "0bbba81c948f6e002e0ae8be024e923a9c5eda10933efeb887e59a8a48e4ac5c",
+      "outputs/exports/Level.json": "c45222e33c16d7d2c92f2ce92d3a2046132e7548b44c69911cc04aaab49ddab8",
+      "outputs/exports/Location.json": "89a5776db7cecac7098e56caa2bbed028bf31881cc5651c978e4480b2db75674",
+      "outputs/exports/PerformanceEvidence.json": "b4b4c8376337a9004ccb9c8574f6a1397171d63a09c64e266afb24f43407e06d",
+      "outputs/exports/Promotion.json": "fb4b455d6ed04822e64653a9f44b5a32a2d930ac3993c576f072cbc39ae93a05",
+      "outputs/exports/ProposalEvidence.json": "a7e4b1b19aa6527d40c6d00608e4c48b6c88b03392a86576df62771347803bfc",
+      "outputs/exports/Role.json": "60cf4190e17ccd34415ed5096f10067db8e2db50b044ddefaab1bb81338a3d70",
+      "outputs/exports/SalaryRecord.json": "1a56a27355eb36c9b37bebc988a7401b456232cb36a89e1b38dccf04ba0e6dfc",
+      "outputs/exports/TenureSnapshot.json": "14f99779eb27a17ee70a973c13f66c0966e73dcd352f3a14e957a1055f4dc837",
+      "outputs/compensation_database.sql": "a0017b8ec6ffd74cccd4f4531b7fbf1ba5d86be9e946ed2058ab5b36c2ac91f9",
+      "outputs/validation_summary.json": "220f5127a7bf39d38a7742b5661d3f33d4bcb5af5fda04cb3ae3053ab45498c4",
+      "outputs/validation_summary.md": "dd82c13abd1b7ee71cba0d5f23956f6d3901d1951c0e4c4fe43891e96b51d330"
+    }
+  }
+}

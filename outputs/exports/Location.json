@@ -1,0 +1,20 @@
+[
+  {
+    "location_id": "LOC-001",
+    "location_name": "Pune",
+    "country_code": "IN",
+    "currency_code": "INR"
+  },
+  {
+    "location_id": "LOC-002",
+    "location_name": "Bengaluru",
+    "country_code": "IN",
+    "currency_code": "INR"
+  },
+  {
+    "location_id": "LOC-003",
+    "location_name": "London",
+    "country_code": "GB",
+    "currency_code": "GBP"
+  }
+]

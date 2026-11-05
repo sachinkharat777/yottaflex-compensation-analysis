@@ -1,0 +1,5002 @@
+[
+  {
+    "promotion_id": "PROMO-2025-000001",
+    "employee_id": "EMP-003126",
+    "from_role_id": "ROLE-032",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-032",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-09-24",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000002",
+    "employee_id": "EMP-002495",
+    "from_role_id": "ROLE-024",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-024",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-12",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000003",
+    "employee_id": "EMP-001523",
+    "from_role_id": "ROLE-031",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-031",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-04-06",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000004",
+    "employee_id": "EMP-000451",
+    "from_role_id": "ROLE-013",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-013",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-05-28",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000005",
+    "employee_id": "EMP-002138",
+    "from_role_id": "ROLE-035",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-035",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-01-06",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000006",
+    "employee_id": "EMP-002033",
+    "from_role_id": "ROLE-009",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-009",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-01-27",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000007",
+    "employee_id": "EMP-002071",
+    "from_role_id": "ROLE-018",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-018",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-08-07",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000008",
+    "employee_id": "EMP-000026",
+    "from_role_id": "ROLE-007",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-007",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-05-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000009",
+    "employee_id": "EMP-004879",
+    "from_role_id": "ROLE-020",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-020",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-12",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000010",
+    "employee_id": "EMP-001170",
+    "from_role_id": "ROLE-043",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-043",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-08-21",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000011",
+    "employee_id": "EMP-000559",
+    "from_role_id": "ROLE-040",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-040",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-04-14",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000012",
+    "employee_id": "EMP-001747",
+    "from_role_id": "ROLE-037",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-037",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-11-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000013",
+    "employee_id": "EMP-001694",
+    "from_role_id": "ROLE-024",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-024",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-06-12",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000014",
+    "employee_id": "EMP-002721",
+    "from_role_id": "ROLE-031",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-031",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-05-25",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000015",
+    "employee_id": "EMP-000963",
+    "from_role_id": "ROLE-041",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-041",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-06-22",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000016",
+    "employee_id": "EMP-004971",
+    "from_role_id": "ROLE-043",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-043",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-22",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000017",
+    "employee_id": "EMP-001326",
+    "from_role_id": "ROLE-032",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-032",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-09-20",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000018",
+    "employee_id": "EMP-004551",
+    "from_role_id": "ROLE-038",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-038",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-01-31",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000019",
+    "employee_id": "EMP-001037",
+    "from_role_id": "ROLE-010",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-010",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-10-06",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000020",
+    "employee_id": "EMP-001918",
+    "from_role_id": "ROLE-030",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-030",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-02-16",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000021",
+    "employee_id": "EMP-004023",
+    "from_role_id": "ROLE-006",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-006",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-09-28",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000022",
+    "employee_id": "EMP-000045",
+    "from_role_id": "ROLE-012",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-012",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-07-17",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000023",
+    "employee_id": "EMP-001029",
+    "from_role_id": "ROLE-008",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-008",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-05-14",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000024",
+    "employee_id": "EMP-003275",
+    "from_role_id": "ROLE-019",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-019",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-04-13",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000025",
+    "employee_id": "EMP-001245",
+    "from_role_id": "ROLE-012",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-012",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-09-28",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000026",
+    "employee_id": "EMP-003082",
+    "from_role_id": "ROLE-021",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-021",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-10-24",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000027",
+    "employee_id": "EMP-004255",
+    "from_role_id": "ROLE-014",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-014",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-11-25",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000028",
+    "employee_id": "EMP-000537",
+    "from_role_id": "ROLE-035",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-035",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-09-13",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000029",
+    "employee_id": "EMP-000577",
+    "from_role_id": "ROLE-045",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-045",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-08-23",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000030",
+    "employee_id": "EMP-001310",
+    "from_role_id": "ROLE-028",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-028",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-03-06",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000031",
+    "employee_id": "EMP-001297",
+    "from_role_id": "ROLE-025",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-025",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-11-19",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000032",
+    "employee_id": "EMP-004073",
+    "from_role_id": "ROLE-019",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-019",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-11-19",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000033",
+    "employee_id": "EMP-000618",
+    "from_role_id": "ROLE-005",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-005",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-09-04",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000034",
+    "employee_id": "EMP-000977",
+    "from_role_id": "ROLE-045",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-045",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-03-12",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000035",
+    "employee_id": "EMP-001982",
+    "from_role_id": "ROLE-046",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-046",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-06-04",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000036",
+    "employee_id": "EMP-004598",
+    "from_role_id": "ROLE-050",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-050",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-03-16",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000037",
+    "employee_id": "EMP-004602",
+    "from_role_id": "ROLE-001",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-001",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-09-07",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000038",
+    "employee_id": "EMP-002959",
+    "from_role_id": "ROLE-040",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-040",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-02-17",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000039",
+    "employee_id": "EMP-000835",
+    "from_role_id": "ROLE-009",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-009",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-06-15",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000040",
+    "employee_id": "EMP-001565",
+    "from_role_id": "ROLE-042",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-042",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-09-03",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000041",
+    "employee_id": "EMP-003911",
+    "from_role_id": "ROLE-028",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-028",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-07-06",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000042",
+    "employee_id": "EMP-003735",
+    "from_role_id": "ROLE-034",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-034",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-07-28",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000043",
+    "employee_id": "EMP-000786",
+    "from_role_id": "ROLE-047",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-047",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-06-12",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000044",
+    "employee_id": "EMP-003810",
+    "from_role_id": "ROLE-003",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-003",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-06-26",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000045",
+    "employee_id": "EMP-004069",
+    "from_role_id": "ROLE-018",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-018",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-11-19",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000046",
+    "employee_id": "EMP-000427",
+    "from_role_id": "ROLE-007",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-007",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-04-29",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000047",
+    "employee_id": "EMP-001118",
+    "from_role_id": "ROLE-030",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-030",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-06-23",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000048",
+    "employee_id": "EMP-003441",
+    "from_role_id": "ROLE-011",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-011",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-02-15",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000049",
+    "employee_id": "EMP-004726",
+    "from_role_id": "ROLE-032",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-032",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-04-24",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000050",
+    "employee_id": "EMP-001823",
+    "from_role_id": "ROLE-006",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-006",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-10-16",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000051",
+    "employee_id": "EMP-000543",
+    "from_role_id": "ROLE-036",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-036",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-10-09",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000052",
+    "employee_id": "EMP-000667",
+    "from_role_id": "ROLE-017",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-017",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-04-26",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000053",
+    "employee_id": "EMP-003301",
+    "from_role_id": "ROLE-026",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-026",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-11-08",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000054",
+    "employee_id": "EMP-000849",
+    "from_role_id": "ROLE-013",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-013",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-04-08",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000055",
+    "employee_id": "EMP-002614",
+    "from_role_id": "ROLE-004",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-004",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-08-05",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000056",
+    "employee_id": "EMP-004517",
+    "from_role_id": "ROLE-030",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-030",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-07-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000057",
+    "employee_id": "EMP-001678",
+    "from_role_id": "ROLE-020",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-020",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-01-01",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000058",
+    "employee_id": "EMP-000051",
+    "from_role_id": "ROLE-013",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-013",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-01-23",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000059",
+    "employee_id": "EMP-000905",
+    "from_role_id": "ROLE-027",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-027",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-02-14",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000060",
+    "employee_id": "EMP-000695",
+    "from_role_id": "ROLE-024",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-024",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-03",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000061",
+    "employee_id": "EMP-003478",
+    "from_role_id": "ROLE-020",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-020",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-07-24",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000062",
+    "employee_id": "EMP-001949",
+    "from_role_id": "ROLE-038",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-038",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-06-15",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000063",
+    "employee_id": "EMP-004347",
+    "from_role_id": "ROLE-037",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-037",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-09-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000064",
+    "employee_id": "EMP-004290",
+    "from_role_id": "ROLE-023",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-023",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-11-04",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000065",
+    "employee_id": "EMP-000687",
+    "from_role_id": "ROLE-022",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-022",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-09-24",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000066",
+    "employee_id": "EMP-004770",
+    "from_role_id": "ROLE-043",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-043",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-05-04",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000067",
+    "employee_id": "EMP-000562",
+    "from_role_id": "ROLE-041",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-041",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-05-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000068",
+    "employee_id": "EMP-003258",
+    "from_role_id": "ROLE-015",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-015",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-02-13",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000069",
+    "employee_id": "EMP-000382",
+    "from_role_id": "ROLE-046",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-046",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-10-24",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000070",
+    "employee_id": "EMP-003375",
+    "from_role_id": "ROLE-044",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-044",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-10-28",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000071",
+    "employee_id": "EMP-000047",
+    "from_role_id": "ROLE-012",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-012",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-10-31",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000072",
+    "employee_id": "EMP-004298",
+    "from_role_id": "ROLE-025",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-025",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-05-03",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000073",
+    "employee_id": "EMP-000333",
+    "from_role_id": "ROLE-034",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-034",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-02-27",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000074",
+    "employee_id": "EMP-002099",
+    "from_role_id": "ROLE-025",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-025",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-15",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000075",
+    "employee_id": "EMP-000265",
+    "from_role_id": "ROLE-017",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-017",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-06-07",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000076",
+    "employee_id": "EMP-001431",
+    "from_role_id": "ROLE-008",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-008",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-11-05",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000077",
+    "employee_id": "EMP-002685",
+    "from_role_id": "ROLE-022",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-022",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-01-20",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000078",
+    "employee_id": "EMP-004622",
+    "from_role_id": "ROLE-006",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-006",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-10-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000079",
+    "employee_id": "EMP-004499",
+    "from_role_id": "ROLE-025",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-025",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-11-28",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000080",
+    "employee_id": "EMP-004625",
+    "from_role_id": "ROLE-007",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-007",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-10-28",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000081",
+    "employee_id": "EMP-003291",
+    "from_role_id": "ROLE-023",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-023",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-05-31",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000082",
+    "employee_id": "EMP-000393",
+    "from_role_id": "ROLE-049",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-049",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-05-22",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000083",
+    "employee_id": "EMP-002719",
+    "from_role_id": "ROLE-030",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-030",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-29",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000084",
+    "employee_id": "EMP-004189",
+    "from_role_id": "ROLE-048",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-048",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-05-06",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000085",
+    "employee_id": "EMP-000129",
+    "from_role_id": "ROLE-033",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-033",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-07-26",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000086",
+    "employee_id": "EMP-001073",
+    "from_role_id": "ROLE-019",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-019",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-05-22",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000087",
+    "employee_id": "EMP-000285",
+    "from_role_id": "ROLE-022",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-022",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-07-19",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000088",
+    "employee_id": "EMP-002581",
+    "from_role_id": "ROLE-046",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-046",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-09-26",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000089",
+    "employee_id": "EMP-000467",
+    "from_role_id": "ROLE-017",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-017",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-09-07",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000090",
+    "employee_id": "EMP-000417",
+    "from_role_id": "ROLE-005",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-005",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-03-23",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000091",
+    "employee_id": "EMP-004867",
+    "from_role_id": "ROLE-017",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-017",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-01-12",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000092",
+    "employee_id": "EMP-000123",
+    "from_role_id": "ROLE-031",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-031",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-10-31",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000093",
+    "employee_id": "EMP-003446",
+    "from_role_id": "ROLE-012",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-012",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-03-28",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000094",
+    "employee_id": "EMP-004605",
+    "from_role_id": "ROLE-002",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-002",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-03-08",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000095",
+    "employee_id": "EMP-002479",
+    "from_role_id": "ROLE-020",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-020",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-11-25",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000096",
+    "employee_id": "EMP-003859",
+    "from_role_id": "ROLE-015",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-015",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-05-17",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000097",
+    "employee_id": "EMP-000182",
+    "from_role_id": "ROLE-046",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-046",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-11-29",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000098",
+    "employee_id": "EMP-004105",
+    "from_role_id": "ROLE-027",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-027",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-10-15",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000099",
+    "employee_id": "EMP-003010",
+    "from_role_id": "ROLE-003",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-003",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-04-27",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000100",
+    "employee_id": "EMP-001765",
+    "from_role_id": "ROLE-042",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-042",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-05-20",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000101",
+    "employee_id": "EMP-002793",
+    "from_role_id": "ROLE-049",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-049",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-11-07",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000102",
+    "employee_id": "EMP-004582",
+    "from_role_id": "ROLE-046",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-046",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-07-01",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000103",
+    "employee_id": "EMP-004882",
+    "from_role_id": "ROLE-021",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-021",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-07-27",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000104",
+    "employee_id": "EMP-004339",
+    "from_role_id": "ROLE-035",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-035",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-05-07",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000105",
+    "employee_id": "EMP-002475",
+    "from_role_id": "ROLE-019",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-019",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-01-28",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000106",
+    "employee_id": "EMP-002287",
+    "from_role_id": "ROLE-022",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-022",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-05-04",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000107",
+    "employee_id": "EMP-002785",
+    "from_role_id": "ROLE-047",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-047",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-07-29",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000108",
+    "employee_id": "EMP-004607",
+    "from_role_id": "ROLE-002",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-002",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-09-09",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000109",
+    "employee_id": "EMP-003550",
+    "from_role_id": "ROLE-038",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-038",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-05-08",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000110",
+    "employee_id": "EMP-003145",
+    "from_role_id": "ROLE-037",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-037",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-01-06",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000111",
+    "employee_id": "EMP-003173",
+    "from_role_id": "ROLE-044",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-044",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-03-28",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000112",
+    "employee_id": "EMP-001567",
+    "from_role_id": "ROLE-042",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-042",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-09-29",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000113",
+    "employee_id": "EMP-001330",
+    "from_role_id": "ROLE-033",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-033",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-10-26",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000114",
+    "employee_id": "EMP-004489",
+    "from_role_id": "ROLE-023",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-023",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-10-24",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000115",
+    "employee_id": "EMP-001338",
+    "from_role_id": "ROLE-035",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-035",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-05-19",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000116",
+    "employee_id": "EMP-004162",
+    "from_role_id": "ROLE-041",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-041",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-07-22",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000117",
+    "employee_id": "EMP-004611",
+    "from_role_id": "ROLE-003",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-003",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-08-10",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000118",
+    "employee_id": "EMP-002575",
+    "from_role_id": "ROLE-044",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-044",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-10-29",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000119",
+    "employee_id": "EMP-004027",
+    "from_role_id": "ROLE-007",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-007",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-02-23",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000120",
+    "employee_id": "EMP-001345",
+    "from_role_id": "ROLE-037",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-037",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-07-16",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000121",
+    "employee_id": "EMP-000079",
+    "from_role_id": "ROLE-020",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-020",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-04-25",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000122",
+    "employee_id": "EMP-000349",
+    "from_role_id": "ROLE-038",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-038",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-09-15",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000123",
+    "employee_id": "EMP-004103",
+    "from_role_id": "ROLE-026",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-026",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-07-27",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000124",
+    "employee_id": "EMP-002362",
+    "from_role_id": "ROLE-041",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-041",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-07-20",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000125",
+    "employee_id": "EMP-004578",
+    "from_role_id": "ROLE-045",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-045",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-09-23",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000126",
+    "employee_id": "EMP-002030",
+    "from_role_id": "ROLE-008",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-008",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-08-28",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000127",
+    "employee_id": "EMP-001101",
+    "from_role_id": "ROLE-026",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-026",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-08-06",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000128",
+    "employee_id": "EMP-004362",
+    "from_role_id": "ROLE-041",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-041",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-04-24",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000129",
+    "employee_id": "EMP-003861",
+    "from_role_id": "ROLE-016",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-016",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-02-26",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000130",
+    "employee_id": "EMP-001306",
+    "from_role_id": "ROLE-027",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-027",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-08-17",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000131",
+    "employee_id": "EMP-004746",
+    "from_role_id": "ROLE-037",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-037",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-01-23",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000132",
+    "employee_id": "EMP-004303",
+    "from_role_id": "ROLE-026",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-026",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-04-13",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000133",
+    "employee_id": "EMP-002191",
+    "from_role_id": "ROLE-048",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-048",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-11-26",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000134",
+    "employee_id": "EMP-000158",
+    "from_role_id": "ROLE-040",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-040",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-02-09",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000135",
+    "employee_id": "EMP-003858",
+    "from_role_id": "ROLE-015",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-015",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-07-11",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000136",
+    "employee_id": "EMP-004819",
+    "from_role_id": "ROLE-005",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-005",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-02-06",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000137",
+    "employee_id": "EMP-003303",
+    "from_role_id": "ROLE-026",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-026",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-09-13",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000138",
+    "employee_id": "EMP-000789",
+    "from_role_id": "ROLE-048",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-048",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-04-14",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000139",
+    "employee_id": "EMP-001625",
+    "from_role_id": "ROLE-007",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-007",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-10-04",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000140",
+    "employee_id": "EMP-003618",
+    "from_role_id": "ROLE-005",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-005",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-05-12",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000141",
+    "employee_id": "EMP-002983",
+    "from_role_id": "ROLE-046",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-046",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-08-20",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000142",
+    "employee_id": "EMP-000534",
+    "from_role_id": "ROLE-034",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-034",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-01-20",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000143",
+    "employee_id": "EMP-002765",
+    "from_role_id": "ROLE-042",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-042",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-10-04",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000144",
+    "employee_id": "EMP-000981",
+    "from_role_id": "ROLE-046",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-046",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-05-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000145",
+    "employee_id": "EMP-001710",
+    "from_role_id": "ROLE-028",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-028",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-06-29",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000146",
+    "employee_id": "EMP-000103",
+    "from_role_id": "ROLE-026",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-026",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-05-23",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000147",
+    "employee_id": "EMP-002387",
+    "from_role_id": "ROLE-047",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-047",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-11-04",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000148",
+    "employee_id": "EMP-003187",
+    "from_role_id": "ROLE-047",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-047",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-07-10",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000149",
+    "employee_id": "EMP-003381",
+    "from_role_id": "ROLE-046",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-046",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-10-04",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000150",
+    "employee_id": "EMP-004107",
+    "from_role_id": "ROLE-027",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-027",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-09-26",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000151",
+    "employee_id": "EMP-000590",
+    "from_role_id": "ROLE-048",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-048",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-04-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000152",
+    "employee_id": "EMP-000194",
+    "from_role_id": "ROLE-049",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-049",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-05-12",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000153",
+    "employee_id": "EMP-001350",
+    "from_role_id": "ROLE-038",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-038",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-08-26",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000154",
+    "employee_id": "EMP-001945",
+    "from_role_id": "ROLE-037",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-037",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-10-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000155",
+    "employee_id": "EMP-004393",
+    "from_role_id": "ROLE-049",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-049",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-09-09",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000156",
+    "employee_id": "EMP-001769",
+    "from_role_id": "ROLE-043",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-043",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-03-11",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000157",
+    "employee_id": "EMP-003611",
+    "from_role_id": "ROLE-003",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-003",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-12",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000158",
+    "employee_id": "EMP-000610",
+    "from_role_id": "ROLE-003",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-003",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-07-28",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000159",
+    "employee_id": "EMP-000879",
+    "from_role_id": "ROLE-020",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-020",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-04-04",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000160",
+    "employee_id": "EMP-001785",
+    "from_role_id": "ROLE-047",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-047",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-05-28",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000161",
+    "employee_id": "EMP-004233",
+    "from_role_id": "ROLE-009",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-009",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-11-26",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000162",
+    "employee_id": "EMP-002095",
+    "from_role_id": "ROLE-024",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-024",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-04-22",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000163",
+    "employee_id": "EMP-001303",
+    "from_role_id": "ROLE-026",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-026",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-26",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000164",
+    "employee_id": "EMP-003603",
+    "from_role_id": "ROLE-001",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-001",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-10-22",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000165",
+    "employee_id": "EMP-003793",
+    "from_role_id": "ROLE-049",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-049",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-11-29",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000166",
+    "employee_id": "EMP-004815",
+    "from_role_id": "ROLE-004",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-004",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-30",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000167",
+    "employee_id": "EMP-001645",
+    "from_role_id": "ROLE-012",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-012",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-11-08",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000168",
+    "employee_id": "EMP-003482",
+    "from_role_id": "ROLE-021",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-021",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-06-09",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000169",
+    "employee_id": "EMP-002949",
+    "from_role_id": "ROLE-038",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-038",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-11-28",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000170",
+    "employee_id": "EMP-002694",
+    "from_role_id": "ROLE-024",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-024",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-03-14",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000171",
+    "employee_id": "EMP-000473",
+    "from_role_id": "ROLE-019",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-019",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-02-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000172",
+    "employee_id": "EMP-004797",
+    "from_role_id": "ROLE-050",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-050",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-05-22",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000173",
+    "employee_id": "EMP-000863",
+    "from_role_id": "ROLE-016",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-016",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-10-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000174",
+    "employee_id": "EMP-004043",
+    "from_role_id": "ROLE-011",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-011",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-08-30",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000175",
+    "employee_id": "EMP-001969",
+    "from_role_id": "ROLE-043",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-043",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-07-11",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000176",
+    "employee_id": "EMP-004251",
+    "from_role_id": "ROLE-013",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-013",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-04",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000177",
+    "employee_id": "EMP-004886",
+    "from_role_id": "ROLE-022",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-022",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-02-26",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000178",
+    "employee_id": "EMP-000550",
+    "from_role_id": "ROLE-038",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-038",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-11-11",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000179",
+    "employee_id": "EMP-002521",
+    "from_role_id": "ROLE-031",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-031",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-04-17",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000180",
+    "employee_id": "EMP-001571",
+    "from_role_id": "ROLE-043",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-043",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-24",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000181",
+    "employee_id": "EMP-004278",
+    "from_role_id": "ROLE-020",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-020",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-07-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000182",
+    "employee_id": "EMP-004275",
+    "from_role_id": "ROLE-019",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-019",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-02-24",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000183",
+    "employee_id": "EMP-003826",
+    "from_role_id": "ROLE-007",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-007",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-02-19",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000184",
+    "employee_id": "EMP-003261",
+    "from_role_id": "ROLE-016",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-016",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-09-12",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000185",
+    "employee_id": "EMP-003530",
+    "from_role_id": "ROLE-033",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-033",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-11-16",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000186",
+    "employee_id": "EMP-002874",
+    "from_role_id": "ROLE-019",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-019",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-03-17",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000187",
+    "employee_id": "EMP-004938",
+    "from_role_id": "ROLE-035",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-035",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-09-22",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000188",
+    "employee_id": "EMP-001981",
+    "from_role_id": "ROLE-046",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-046",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-06-04",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000189",
+    "employee_id": "EMP-001235",
+    "from_role_id": "ROLE-009",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-009",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-11-26",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000190",
+    "employee_id": "EMP-001962",
+    "from_role_id": "ROLE-041",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-041",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-10-01",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000191",
+    "employee_id": "EMP-003477",
+    "from_role_id": "ROLE-020",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-020",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-02-11",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000192",
+    "employee_id": "EMP-004574",
+    "from_role_id": "ROLE-044",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-044",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-01-06",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000193",
+    "employee_id": "EMP-004737",
+    "from_role_id": "ROLE-035",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-035",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-11-26",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000194",
+    "employee_id": "EMP-000654",
+    "from_role_id": "ROLE-014",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-014",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-10-26",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000195",
+    "employee_id": "EMP-003585",
+    "from_role_id": "ROLE-047",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-047",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-02-03",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000196",
+    "employee_id": "EMP-004538",
+    "from_role_id": "ROLE-035",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-035",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-07-03",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000197",
+    "employee_id": "EMP-000778",
+    "from_role_id": "ROLE-045",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-045",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-04-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000198",
+    "employee_id": "EMP-001629",
+    "from_role_id": "ROLE-008",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-008",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-10-23",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000199",
+    "employee_id": "EMP-000805",
+    "from_role_id": "ROLE-002",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-002",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-06-09",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000200",
+    "employee_id": "EMP-000702",
+    "from_role_id": "ROLE-026",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-026",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-05-04",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000201",
+    "employee_id": "EMP-004130",
+    "from_role_id": "ROLE-033",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-033",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-04-22",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000202",
+    "employee_id": "EMP-000361",
+    "from_role_id": "ROLE-041",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-041",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-02-01",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000203",
+    "employee_id": "EMP-002041",
+    "from_role_id": "ROLE-011",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-011",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-04-15",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000204",
+    "employee_id": "EMP-002755",
+    "from_role_id": "ROLE-039",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-039",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-04-06",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000205",
+    "employee_id": "EMP-001439",
+    "from_role_id": "ROLE-010",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-010",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-06-21",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000206",
+    "employee_id": "EMP-002990",
+    "from_role_id": "ROLE-048",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-048",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-05-07",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000207",
+    "employee_id": "EMP-002238",
+    "from_role_id": "ROLE-010",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-010",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-02-10",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000208",
+    "employee_id": "EMP-001577",
+    "from_role_id": "ROLE-045",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-045",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-10-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000209",
+    "employee_id": "EMP-002426",
+    "from_role_id": "ROLE-007",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-007",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-11-24",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000210",
+    "employee_id": "EMP-003093",
+    "from_role_id": "ROLE-024",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-024",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-02-23",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000211",
+    "employee_id": "EMP-000370",
+    "from_role_id": "ROLE-043",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-043",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-02-09",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000212",
+    "employee_id": "EMP-000514",
+    "from_role_id": "ROLE-029",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-029",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-05-29",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000213",
+    "employee_id": "EMP-004687",
+    "from_role_id": "ROLE-022",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-022",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-06-01",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000214",
+    "employee_id": "EMP-002137",
+    "from_role_id": "ROLE-035",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-035",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-02-14",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000215",
+    "employee_id": "EMP-002695",
+    "from_role_id": "ROLE-024",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-024",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-10-21",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000216",
+    "employee_id": "EMP-001115",
+    "from_role_id": "ROLE-029",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-029",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-04-12",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000217",
+    "employee_id": "EMP-002515",
+    "from_role_id": "ROLE-029",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-029",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-02-06",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000218",
+    "employee_id": "EMP-004765",
+    "from_role_id": "ROLE-042",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-042",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-10-23",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000219",
+    "employee_id": "EMP-004766",
+    "from_role_id": "ROLE-042",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-042",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-02-13",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000220",
+    "employee_id": "EMP-000615",
+    "from_role_id": "ROLE-004",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-004",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-07-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000221",
+    "employee_id": "EMP-001181",
+    "from_role_id": "ROLE-046",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-046",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-02-24",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000222",
+    "employee_id": "EMP-001365",
+    "from_role_id": "ROLE-042",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-042",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-05-16",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000223",
+    "employee_id": "EMP-004769",
+    "from_role_id": "ROLE-043",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-043",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-02-17",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000224",
+    "employee_id": "EMP-001585",
+    "from_role_id": "ROLE-047",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-047",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-06-07",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000225",
+    "employee_id": "EMP-002718",
+    "from_role_id": "ROLE-030",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-030",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-10-22",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000226",
+    "employee_id": "EMP-004951",
+    "from_role_id": "ROLE-038",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-038",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-01-24",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000227",
+    "employee_id": "EMP-002810",
+    "from_role_id": "ROLE-003",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-003",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-04-10",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000228",
+    "employee_id": "EMP-003465",
+    "from_role_id": "ROLE-017",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-017",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-01-20",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000229",
+    "employee_id": "EMP-001761",
+    "from_role_id": "ROLE-041",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-041",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-05-11",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000230",
+    "employee_id": "EMP-001758",
+    "from_role_id": "ROLE-040",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-040",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-08-21",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000231",
+    "employee_id": "EMP-000286",
+    "from_role_id": "ROLE-022",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-022",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-01-30",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000232",
+    "employee_id": "EMP-001757",
+    "from_role_id": "ROLE-040",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-040",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-01-23",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000233",
+    "employee_id": "EMP-001094",
+    "from_role_id": "ROLE-024",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-024",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-09-04",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000234",
+    "employee_id": "EMP-003065",
+    "from_role_id": "ROLE-017",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-017",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-03-07",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000235",
+    "employee_id": "EMP-003369",
+    "from_role_id": "ROLE-043",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-043",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-05-19",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000236",
+    "employee_id": "EMP-003129",
+    "from_role_id": "ROLE-033",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-033",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-05-21",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000237",
+    "employee_id": "EMP-004835",
+    "from_role_id": "ROLE-009",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-009",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-10-29",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000238",
+    "employee_id": "EMP-003090",
+    "from_role_id": "ROLE-023",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-023",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-08-29",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000239",
+    "employee_id": "EMP-001155",
+    "from_role_id": "ROLE-039",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-039",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-02-03",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000240",
+    "employee_id": "EMP-002997",
+    "from_role_id": "ROLE-050",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-050",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-04-27",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000241",
+    "employee_id": "EMP-001711",
+    "from_role_id": "ROLE-028",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-028",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-01-11",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000242",
+    "employee_id": "EMP-002233",
+    "from_role_id": "ROLE-009",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-009",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-08-19",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000243",
+    "employee_id": "EMP-004319",
+    "from_role_id": "ROLE-030",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-030",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-08-25",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000244",
+    "employee_id": "EMP-000442",
+    "from_role_id": "ROLE-011",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-011",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-08-15",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000245",
+    "employee_id": "EMP-002518",
+    "from_role_id": "ROLE-030",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-030",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-07-13",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000246",
+    "employee_id": "EMP-004399",
+    "from_role_id": "ROLE-050",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-050",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-03",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000247",
+    "employee_id": "EMP-002623",
+    "from_role_id": "ROLE-006",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-006",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-05-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000248",
+    "employee_id": "EMP-003435",
+    "from_role_id": "ROLE-009",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-009",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-05-14",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000249",
+    "employee_id": "EMP-004430",
+    "from_role_id": "ROLE-008",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-008",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-07-26",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000250",
+    "employee_id": "EMP-001614",
+    "from_role_id": "ROLE-004",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-004",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-01-12",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000251",
+    "employee_id": "EMP-000565",
+    "from_role_id": "ROLE-042",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-042",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-03-17",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000252",
+    "employee_id": "EMP-002995",
+    "from_role_id": "ROLE-049",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-049",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-04-30",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000253",
+    "employee_id": "EMP-002739",
+    "from_role_id": "ROLE-035",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-035",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-05-13",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000254",
+    "employee_id": "EMP-003545",
+    "from_role_id": "ROLE-037",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-037",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-08-21",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000255",
+    "employee_id": "EMP-002791",
+    "from_role_id": "ROLE-048",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-048",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-06-03",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000256",
+    "employee_id": "EMP-002195",
+    "from_role_id": "ROLE-049",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-049",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-02-11",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000257",
+    "employee_id": "EMP-003357",
+    "from_role_id": "ROLE-040",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-040",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-04-25",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000258",
+    "employee_id": "EMP-002198",
+    "from_role_id": "ROLE-050",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-050",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-04-10",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000259",
+    "employee_id": "EMP-004743",
+    "from_role_id": "ROLE-036",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-036",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-06-28",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000260",
+    "employee_id": "EMP-001286",
+    "from_role_id": "ROLE-022",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-022",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-05-08",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000261",
+    "employee_id": "EMP-003525",
+    "from_role_id": "ROLE-032",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-032",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-04-01",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000262",
+    "employee_id": "EMP-004937",
+    "from_role_id": "ROLE-035",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-035",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-02-12",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000263",
+    "employee_id": "EMP-000563",
+    "from_role_id": "ROLE-041",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-041",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-10-25",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000264",
+    "employee_id": "EMP-004079",
+    "from_role_id": "ROLE-020",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-020",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-01-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000265",
+    "employee_id": "EMP-001466",
+    "from_role_id": "ROLE-017",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-017",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-06-29",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000266",
+    "employee_id": "EMP-002462",
+    "from_role_id": "ROLE-016",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-016",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-05-30",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000267",
+    "employee_id": "EMP-001242",
+    "from_role_id": "ROLE-011",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-011",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-07-16",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000268",
+    "employee_id": "EMP-000021",
+    "from_role_id": "ROLE-006",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-006",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-08-03",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000269",
+    "employee_id": "EMP-001925",
+    "from_role_id": "ROLE-032",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-032",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-04-25",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000270",
+    "employee_id": "EMP-004067",
+    "from_role_id": "ROLE-017",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-017",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-05-01",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000271",
+    "employee_id": "EMP-002973",
+    "from_role_id": "ROLE-044",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-044",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-10-10",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000272",
+    "employee_id": "EMP-004530",
+    "from_role_id": "ROLE-033",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-033",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-01-14",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000273",
+    "employee_id": "EMP-001666",
+    "from_role_id": "ROLE-017",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-017",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-01-22",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000274",
+    "employee_id": "EMP-001194",
+    "from_role_id": "ROLE-049",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-049",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-09-10",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000275",
+    "employee_id": "EMP-004711",
+    "from_role_id": "ROLE-028",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-028",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-09-01",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000276",
+    "employee_id": "EMP-001319",
+    "from_role_id": "ROLE-030",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-030",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-05-03",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000277",
+    "employee_id": "EMP-000542",
+    "from_role_id": "ROLE-036",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-036",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-05-04",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000278",
+    "employee_id": "EMP-000669",
+    "from_role_id": "ROLE-018",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-018",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-10-30",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000279",
+    "employee_id": "EMP-002319",
+    "from_role_id": "ROLE-030",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-030",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-05-29",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000280",
+    "employee_id": "EMP-002417",
+    "from_role_id": "ROLE-005",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-005",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-11-16",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000281",
+    "employee_id": "EMP-002975",
+    "from_role_id": "ROLE-044",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-044",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-05-02",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000282",
+    "employee_id": "EMP-002630",
+    "from_role_id": "ROLE-008",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-008",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-04-10",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000283",
+    "employee_id": "EMP-000631",
+    "from_role_id": "ROLE-008",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-008",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-04-03",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000284",
+    "employee_id": "EMP-004401",
+    "from_role_id": "ROLE-001",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-001",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-04-08",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000285",
+    "employee_id": "EMP-000443",
+    "from_role_id": "ROLE-011",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-011",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-04-15",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000286",
+    "employee_id": "EMP-003387",
+    "from_role_id": "ROLE-047",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-047",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-11-16",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000287",
+    "employee_id": "EMP-000281",
+    "from_role_id": "ROLE-021",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-021",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-03-11",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000288",
+    "employee_id": "EMP-001526",
+    "from_role_id": "ROLE-032",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-032",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-03-10",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000289",
+    "employee_id": "EMP-003598",
+    "from_role_id": "ROLE-050",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-050",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-03-29",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000290",
+    "employee_id": "EMP-001231",
+    "from_role_id": "ROLE-008",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-008",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-09-10",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000291",
+    "employee_id": "EMP-000474",
+    "from_role_id": "ROLE-019",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-019",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-09-07",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000292",
+    "employee_id": "EMP-001154",
+    "from_role_id": "ROLE-039",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-039",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-03-26",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000293",
+    "employee_id": "EMP-004651",
+    "from_role_id": "ROLE-013",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-013",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-01-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000294",
+    "employee_id": "EMP-003327",
+    "from_role_id": "ROLE-032",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-032",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-10-24",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000295",
+    "employee_id": "EMP-004034",
+    "from_role_id": "ROLE-009",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-009",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-07-28",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000296",
+    "employee_id": "EMP-002538",
+    "from_role_id": "ROLE-035",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-035",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-03-11",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000297",
+    "employee_id": "EMP-002474",
+    "from_role_id": "ROLE-019",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-019",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-02-20",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000298",
+    "employee_id": "EMP-002594",
+    "from_role_id": "ROLE-049",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-049",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-09-19",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000299",
+    "employee_id": "EMP-004731",
+    "from_role_id": "ROLE-033",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-033",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-07-21",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000300",
+    "employee_id": "EMP-002470",
+    "from_role_id": "ROLE-018",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-018",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-01-01",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000301",
+    "employee_id": "EMP-000930",
+    "from_role_id": "ROLE-033",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-033",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-06-23",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000302",
+    "employee_id": "EMP-001701",
+    "from_role_id": "ROLE-026",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-026",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-05-02",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000303",
+    "employee_id": "EMP-003514",
+    "from_role_id": "ROLE-029",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-029",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-04-11",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000304",
+    "employee_id": "EMP-003286",
+    "from_role_id": "ROLE-022",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-022",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-09-11",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000305",
+    "employee_id": "EMP-000077",
+    "from_role_id": "ROLE-020",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-020",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-05-10",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000306",
+    "employee_id": "EMP-001615",
+    "from_role_id": "ROLE-004",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-004",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-01-29",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000307",
+    "employee_id": "EMP-000498",
+    "from_role_id": "ROLE-025",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-025",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-09-30",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000308",
+    "employee_id": "EMP-004361",
+    "from_role_id": "ROLE-041",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-041",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-11-29",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000309",
+    "employee_id": "EMP-003799",
+    "from_role_id": "ROLE-050",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-050",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-11-23",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000310",
+    "employee_id": "EMP-001558",
+    "from_role_id": "ROLE-040",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-040",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-08-24",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000311",
+    "employee_id": "EMP-000185",
+    "from_role_id": "ROLE-047",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-047",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-03-06",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000312",
+    "employee_id": "EMP-002477",
+    "from_role_id": "ROLE-020",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-020",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-01-10",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000313",
+    "employee_id": "EMP-003155",
+    "from_role_id": "ROLE-039",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-039",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-02-14",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000314",
+    "employee_id": "EMP-002005",
+    "from_role_id": "ROLE-002",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-002",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-10-02",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000315",
+    "employee_id": "EMP-001322",
+    "from_role_id": "ROLE-031",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-031",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-09-13",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000316",
+    "employee_id": "EMP-000766",
+    "from_role_id": "ROLE-042",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-042",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-01-21",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000317",
+    "employee_id": "EMP-001425",
+    "from_role_id": "ROLE-007",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-007",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-05-27",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000318",
+    "employee_id": "EMP-001559",
+    "from_role_id": "ROLE-040",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-040",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-11-25",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000319",
+    "employee_id": "EMP-001643",
+    "from_role_id": "ROLE-011",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-011",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-01-19",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000320",
+    "employee_id": "EMP-002413",
+    "from_role_id": "ROLE-004",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-004",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-02-14",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000321",
+    "employee_id": "EMP-000249",
+    "from_role_id": "ROLE-013",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-013",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-04-08",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000322",
+    "employee_id": "EMP-001463",
+    "from_role_id": "ROLE-016",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-016",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-02-14",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000323",
+    "employee_id": "EMP-003569",
+    "from_role_id": "ROLE-043",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-043",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-10-25",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000324",
+    "employee_id": "EMP-001597",
+    "from_role_id": "ROLE-050",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-050",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-05-20",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000325",
+    "employee_id": "EMP-003933",
+    "from_role_id": "ROLE-034",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-034",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-03-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000326",
+    "employee_id": "EMP-002117",
+    "from_role_id": "ROLE-030",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-030",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-07-25",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000327",
+    "employee_id": "EMP-000229",
+    "from_role_id": "ROLE-008",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-008",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-10-19",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000328",
+    "employee_id": "EMP-004367",
+    "from_role_id": "ROLE-042",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-042",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-01-31",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000329",
+    "employee_id": "EMP-001545",
+    "from_role_id": "ROLE-037",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-037",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-10-28",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000330",
+    "employee_id": "EMP-000679",
+    "from_role_id": "ROLE-020",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-020",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-11-15",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000331",
+    "employee_id": "EMP-003078",
+    "from_role_id": "ROLE-020",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-020",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-10-16",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000332",
+    "employee_id": "EMP-001153",
+    "from_role_id": "ROLE-039",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-039",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-02-14",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000333",
+    "employee_id": "EMP-002946",
+    "from_role_id": "ROLE-037",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-037",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-02-07",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000334",
+    "employee_id": "EMP-001601",
+    "from_role_id": "ROLE-001",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-001",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-11-21",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000335",
+    "employee_id": "EMP-001609",
+    "from_role_id": "ROLE-003",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-003",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-06-24",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000336",
+    "employee_id": "EMP-001102",
+    "from_role_id": "ROLE-026",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-026",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-04-04",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000337",
+    "employee_id": "EMP-002925",
+    "from_role_id": "ROLE-032",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-032",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-02-01",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000338",
+    "employee_id": "EMP-001515",
+    "from_role_id": "ROLE-029",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-029",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-01-02",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000339",
+    "employee_id": "EMP-003167",
+    "from_role_id": "ROLE-042",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-042",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-08-27",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000340",
+    "employee_id": "EMP-000413",
+    "from_role_id": "ROLE-004",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-004",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-02-02",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000341",
+    "employee_id": "EMP-000167",
+    "from_role_id": "ROLE-042",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-042",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-08-17",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000342",
+    "employee_id": "EMP-001025",
+    "from_role_id": "ROLE-007",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-007",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-07-30",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000343",
+    "employee_id": "EMP-002673",
+    "from_role_id": "ROLE-019",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-019",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-03-22",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000344",
+    "employee_id": "EMP-003539",
+    "from_role_id": "ROLE-035",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-035",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-08-22",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000345",
+    "employee_id": "EMP-001225",
+    "from_role_id": "ROLE-007",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-007",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-05-19",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000346",
+    "employee_id": "EMP-003927",
+    "from_role_id": "ROLE-032",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-032",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-01-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000347",
+    "employee_id": "EMP-000950",
+    "from_role_id": "ROLE-038",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-038",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-07-28",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000348",
+    "employee_id": "EMP-000397",
+    "from_role_id": "ROLE-050",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-050",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-06-10",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000349",
+    "employee_id": "EMP-004858",
+    "from_role_id": "ROLE-015",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-015",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-03-30",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000350",
+    "employee_id": "EMP-004650",
+    "from_role_id": "ROLE-013",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-013",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-03-17",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000351",
+    "employee_id": "EMP-001363",
+    "from_role_id": "ROLE-041",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-041",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-10-25",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000352",
+    "employee_id": "EMP-002279",
+    "from_role_id": "ROLE-020",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-020",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-10-29",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000353",
+    "employee_id": "EMP-000266",
+    "from_role_id": "ROLE-017",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-017",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-05-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000354",
+    "employee_id": "EMP-000987",
+    "from_role_id": "ROLE-047",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-047",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-04-28",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000355",
+    "employee_id": "EMP-001749",
+    "from_role_id": "ROLE-038",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-038",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-08-20",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000356",
+    "employee_id": "EMP-004470",
+    "from_role_id": "ROLE-018",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-018",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-05-24",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000357",
+    "employee_id": "EMP-000283",
+    "from_role_id": "ROLE-021",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-021",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-28",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000358",
+    "employee_id": "EMP-001479",
+    "from_role_id": "ROLE-020",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-020",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-05-06",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000359",
+    "employee_id": "EMP-003839",
+    "from_role_id": "ROLE-010",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-010",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-06-08",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000360",
+    "employee_id": "EMP-003171",
+    "from_role_id": "ROLE-043",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-043",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-09-02",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000361",
+    "employee_id": "EMP-000739",
+    "from_role_id": "ROLE-035",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-035",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-15",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000362",
+    "employee_id": "EMP-004039",
+    "from_role_id": "ROLE-010",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-010",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-11-03",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000363",
+    "employee_id": "EMP-003995",
+    "from_role_id": "ROLE-049",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-049",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-01-13",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000364",
+    "employee_id": "EMP-004455",
+    "from_role_id": "ROLE-014",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-014",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-30",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000365",
+    "employee_id": "EMP-003282",
+    "from_role_id": "ROLE-021",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-021",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-07-05",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000366",
+    "employee_id": "EMP-000034",
+    "from_role_id": "ROLE-009",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-009",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-04-16",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000367",
+    "employee_id": "EMP-001035",
+    "from_role_id": "ROLE-009",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-009",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-01-06",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000368",
+    "employee_id": "EMP-002046",
+    "from_role_id": "ROLE-012",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-012",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-03-30",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000369",
+    "employee_id": "EMP-003953",
+    "from_role_id": "ROLE-039",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-039",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-02-24",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000370",
+    "employee_id": "EMP-001811",
+    "from_role_id": "ROLE-003",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-003",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-11-14",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000371",
+    "employee_id": "EMP-003931",
+    "from_role_id": "ROLE-033",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-033",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-02-02",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000372",
+    "employee_id": "EMP-003330",
+    "from_role_id": "ROLE-033",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-033",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-01-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000373",
+    "employee_id": "EMP-000019",
+    "from_role_id": "ROLE-005",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-005",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-10",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000374",
+    "employee_id": "EMP-002226",
+    "from_role_id": "ROLE-007",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-007",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-05-06",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000375",
+    "employee_id": "EMP-002947",
+    "from_role_id": "ROLE-037",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-037",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-07-12",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000376",
+    "employee_id": "EMP-004373",
+    "from_role_id": "ROLE-044",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-044",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-03-15",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000377",
+    "employee_id": "EMP-002815",
+    "from_role_id": "ROLE-004",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-004",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-04-16",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000378",
+    "employee_id": "EMP-002803",
+    "from_role_id": "ROLE-001",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-001",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-08-17",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000379",
+    "employee_id": "EMP-000243",
+    "from_role_id": "ROLE-011",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-011",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-01-03",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000380",
+    "employee_id": "EMP-001395",
+    "from_role_id": "ROLE-049",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-049",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-01-25",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000381",
+    "employee_id": "EMP-004146",
+    "from_role_id": "ROLE-037",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-037",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-11-03",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000382",
+    "employee_id": "EMP-004426",
+    "from_role_id": "ROLE-007",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-007",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-11-14",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000383",
+    "employee_id": "EMP-004197",
+    "from_role_id": "ROLE-050",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-050",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-07-01",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000384",
+    "employee_id": "EMP-001553",
+    "from_role_id": "ROLE-039",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-039",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-09-11",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000385",
+    "employee_id": "EMP-002822",
+    "from_role_id": "ROLE-006",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-006",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-09-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000386",
+    "employee_id": "EMP-000762",
+    "from_role_id": "ROLE-041",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-041",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-06-13",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000387",
+    "employee_id": "EMP-004941",
+    "from_role_id": "ROLE-036",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-036",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-02-14",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000388",
+    "employee_id": "EMP-004074",
+    "from_role_id": "ROLE-019",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-019",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-04-23",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000389",
+    "employee_id": "EMP-004699",
+    "from_role_id": "ROLE-025",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-025",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-05-20",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000390",
+    "employee_id": "EMP-002583",
+    "from_role_id": "ROLE-046",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-046",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-04-06",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000391",
+    "employee_id": "EMP-004163",
+    "from_role_id": "ROLE-041",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-041",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-10",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000392",
+    "employee_id": "EMP-001019",
+    "from_role_id": "ROLE-005",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-005",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-10-20",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000393",
+    "employee_id": "EMP-001266",
+    "from_role_id": "ROLE-017",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-017",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-11-01",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000394",
+    "employee_id": "EMP-004433",
+    "from_role_id": "ROLE-009",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-009",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-09-01",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000395",
+    "employee_id": "EMP-001978",
+    "from_role_id": "ROLE-045",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-045",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-09-02",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000396",
+    "employee_id": "EMP-004639",
+    "from_role_id": "ROLE-010",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-010",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-05-29",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000397",
+    "employee_id": "EMP-004825",
+    "from_role_id": "ROLE-007",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-007",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-01-12",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000398",
+    "employee_id": "EMP-004810",
+    "from_role_id": "ROLE-003",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-003",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-03-14",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000399",
+    "employee_id": "EMP-002285",
+    "from_role_id": "ROLE-022",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-022",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-03-02",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000400",
+    "employee_id": "EMP-002935",
+    "from_role_id": "ROLE-034",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-034",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-29",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000401",
+    "employee_id": "EMP-001793",
+    "from_role_id": "ROLE-049",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-049",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-11-09",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000402",
+    "employee_id": "EMP-002405",
+    "from_role_id": "ROLE-002",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-002",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-01-22",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000403",
+    "employee_id": "EMP-004239",
+    "from_role_id": "ROLE-010",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-010",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-02-03",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000404",
+    "employee_id": "EMP-000759",
+    "from_role_id": "ROLE-040",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-040",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-05-13",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000405",
+    "employee_id": "EMP-001655",
+    "from_role_id": "ROLE-014",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-014",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-01-07",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000406",
+    "employee_id": "EMP-004838",
+    "from_role_id": "ROLE-010",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-010",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-11-22",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000407",
+    "employee_id": "EMP-001139",
+    "from_role_id": "ROLE-035",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-035",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-21",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000408",
+    "employee_id": "EMP-002126",
+    "from_role_id": "ROLE-032",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-032",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-03-31",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000409",
+    "employee_id": "EMP-000186",
+    "from_role_id": "ROLE-047",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-047",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-02-09",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000410",
+    "employee_id": "EMP-004787",
+    "from_role_id": "ROLE-047",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-047",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-05-15",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000411",
+    "employee_id": "EMP-004877",
+    "from_role_id": "ROLE-020",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-020",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-11-20",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000412",
+    "employee_id": "EMP-004417",
+    "from_role_id": "ROLE-005",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-005",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-09-06",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000413",
+    "employee_id": "EMP-000567",
+    "from_role_id": "ROLE-042",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-042",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-02-08",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000414",
+    "employee_id": "EMP-000005",
+    "from_role_id": "ROLE-002",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-002",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-08-09",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000415",
+    "employee_id": "EMP-003470",
+    "from_role_id": "ROLE-018",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-018",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-04-27",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000416",
+    "employee_id": "EMP-003843",
+    "from_role_id": "ROLE-011",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-011",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-11-30",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000417",
+    "employee_id": "EMP-003762",
+    "from_role_id": "ROLE-041",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-041",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-01-06",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000418",
+    "employee_id": "EMP-000723",
+    "from_role_id": "ROLE-031",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-031",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-10-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000419",
+    "employee_id": "EMP-000313",
+    "from_role_id": "ROLE-029",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-029",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-07-30",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000420",
+    "employee_id": "EMP-003242",
+    "from_role_id": "ROLE-011",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-011",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-04-19",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000421",
+    "employee_id": "EMP-001433",
+    "from_role_id": "ROLE-009",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-009",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-10-17",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000422",
+    "employee_id": "EMP-004035",
+    "from_role_id": "ROLE-009",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-009",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-18",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000423",
+    "employee_id": "EMP-003857",
+    "from_role_id": "ROLE-015",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-015",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-04-23",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000424",
+    "employee_id": "EMP-003423",
+    "from_role_id": "ROLE-006",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-006",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-05-13",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000425",
+    "employee_id": "EMP-004222",
+    "from_role_id": "ROLE-006",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-006",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-09-17",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000426",
+    "employee_id": "EMP-001013",
+    "from_role_id": "ROLE-004",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-004",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-09-03",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000427",
+    "employee_id": "EMP-004458",
+    "from_role_id": "ROLE-015",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-015",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-03-16",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000428",
+    "employee_id": "EMP-000253",
+    "from_role_id": "ROLE-014",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-014",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-07-22",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000429",
+    "employee_id": "EMP-003990",
+    "from_role_id": "ROLE-048",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-048",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-05-06",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000430",
+    "employee_id": "EMP-000191",
+    "from_role_id": "ROLE-048",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-048",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-17",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000431",
+    "employee_id": "EMP-002079",
+    "from_role_id": "ROLE-020",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-020",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-27",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000432",
+    "employee_id": "EMP-000106",
+    "from_role_id": "ROLE-027",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-027",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-07-24",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000433",
+    "employee_id": "EMP-004521",
+    "from_role_id": "ROLE-031",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-031",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-01-12",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000434",
+    "employee_id": "EMP-004845",
+    "from_role_id": "ROLE-012",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-012",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-08-24",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000435",
+    "employee_id": "EMP-001270",
+    "from_role_id": "ROLE-018",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-018",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-07-19",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000436",
+    "employee_id": "EMP-004623",
+    "from_role_id": "ROLE-006",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-006",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-02-09",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000437",
+    "employee_id": "EMP-004469",
+    "from_role_id": "ROLE-018",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-018",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-01-11",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000438",
+    "employee_id": "EMP-004999",
+    "from_role_id": "ROLE-050",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-050",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-09-23",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000439",
+    "employee_id": "EMP-000890",
+    "from_role_id": "ROLE-023",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-023",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-08-09",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000440",
+    "employee_id": "EMP-003626",
+    "from_role_id": "ROLE-007",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-007",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-05-12",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000441",
+    "employee_id": "EMP-001630",
+    "from_role_id": "ROLE-008",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-008",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-04-08",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000442",
+    "employee_id": "EMP-001169",
+    "from_role_id": "ROLE-043",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-043",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-08-16",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000443",
+    "employee_id": "EMP-000415",
+    "from_role_id": "ROLE-004",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-004",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-06-10",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000444",
+    "employee_id": "EMP-003802",
+    "from_role_id": "ROLE-001",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-001",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-03-12",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000445",
+    "employee_id": "EMP-004695",
+    "from_role_id": "ROLE-024",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-024",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-30",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000446",
+    "employee_id": "EMP-003654",
+    "from_role_id": "ROLE-014",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-014",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-01-14",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000447",
+    "employee_id": "EMP-003067",
+    "from_role_id": "ROLE-017",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-017",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-02-22",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000448",
+    "employee_id": "EMP-003239",
+    "from_role_id": "ROLE-010",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-010",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-01-02",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000449",
+    "employee_id": "EMP-000775",
+    "from_role_id": "ROLE-044",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-044",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-07-15",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000450",
+    "employee_id": "EMP-002591",
+    "from_role_id": "ROLE-048",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-048",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-09-23",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000451",
+    "employee_id": "EMP-004242",
+    "from_role_id": "ROLE-011",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-011",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-07-15",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000452",
+    "employee_id": "EMP-004990",
+    "from_role_id": "ROLE-048",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-048",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-09-12",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000453",
+    "employee_id": "EMP-000662",
+    "from_role_id": "ROLE-016",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-016",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-02-02",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000454",
+    "employee_id": "EMP-004507",
+    "from_role_id": "ROLE-027",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-027",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-07-03",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000455",
+    "employee_id": "EMP-001999",
+    "from_role_id": "ROLE-050",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-050",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-09-28",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000456",
+    "employee_id": "EMP-004702",
+    "from_role_id": "ROLE-026",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-026",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-06-24",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000457",
+    "employee_id": "EMP-001649",
+    "from_role_id": "ROLE-013",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-013",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-02-22",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000458",
+    "employee_id": "EMP-001407",
+    "from_role_id": "ROLE-002",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-002",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-07-17",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000459",
+    "employee_id": "EMP-003210",
+    "from_role_id": "ROLE-003",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-003",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-09-17",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000460",
+    "employee_id": "EMP-003285",
+    "from_role_id": "ROLE-022",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-022",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-03-29",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000461",
+    "employee_id": "EMP-000643",
+    "from_role_id": "ROLE-011",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-011",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-01-04",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000462",
+    "employee_id": "EMP-004981",
+    "from_role_id": "ROLE-046",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-046",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-10-08",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000463",
+    "employee_id": "EMP-000810",
+    "from_role_id": "ROLE-003",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-003",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-07-26",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000464",
+    "employee_id": "EMP-002509",
+    "from_role_id": "ROLE-028",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-028",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-03-19",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000465",
+    "employee_id": "EMP-000346",
+    "from_role_id": "ROLE-037",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-037",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-02-19",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000466",
+    "employee_id": "EMP-000707",
+    "from_role_id": "ROLE-027",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-027",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-11-09",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000467",
+    "employee_id": "EMP-002781",
+    "from_role_id": "ROLE-046",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-046",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-11-12",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000468",
+    "employee_id": "EMP-000978",
+    "from_role_id": "ROLE-045",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-045",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-09-03",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000469",
+    "employee_id": "EMP-003510",
+    "from_role_id": "ROLE-028",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-028",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-01-20",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000470",
+    "employee_id": "EMP-000270",
+    "from_role_id": "ROLE-018",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-018",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-01-04",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000471",
+    "employee_id": "EMP-001733",
+    "from_role_id": "ROLE-034",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-034",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-11-28",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000472",
+    "employee_id": "EMP-000179",
+    "from_role_id": "ROLE-045",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-045",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-04-10",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000473",
+    "employee_id": "EMP-001351",
+    "from_role_id": "ROLE-038",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-038",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-09-25",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000474",
+    "employee_id": "EMP-003934",
+    "from_role_id": "ROLE-034",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-034",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-11-11",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000475",
+    "employee_id": "EMP-000755",
+    "from_role_id": "ROLE-039",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-039",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-01-28",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000476",
+    "employee_id": "EMP-002989",
+    "from_role_id": "ROLE-048",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-048",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-05-11",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000477",
+    "employee_id": "EMP-000726",
+    "from_role_id": "ROLE-032",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-032",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-11-01",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000478",
+    "employee_id": "EMP-000757",
+    "from_role_id": "ROLE-040",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-040",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-07-14",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000479",
+    "employee_id": "EMP-000223",
+    "from_role_id": "ROLE-006",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-006",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-05-17",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000480",
+    "employee_id": "EMP-003699",
+    "from_role_id": "ROLE-025",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-025",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-10-30",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000481",
+    "employee_id": "EMP-000406",
+    "from_role_id": "ROLE-002",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-002",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-08-11",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000482",
+    "employee_id": "EMP-003935",
+    "from_role_id": "ROLE-034",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-034",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-03-13",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000483",
+    "employee_id": "EMP-001105",
+    "from_role_id": "ROLE-027",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-027",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-09-03",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000484",
+    "employee_id": "EMP-001607",
+    "from_role_id": "ROLE-002",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-002",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-07-29",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000485",
+    "employee_id": "EMP-003847",
+    "from_role_id": "ROLE-012",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-012",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-07-01",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000486",
+    "employee_id": "EMP-002129",
+    "from_role_id": "ROLE-033",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-033",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-08-06",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000487",
+    "employee_id": "EMP-000430",
+    "from_role_id": "ROLE-008",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-008",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-02-13",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000488",
+    "employee_id": "EMP-000149",
+    "from_role_id": "ROLE-038",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-038",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-02-19",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000489",
+    "employee_id": "EMP-000721",
+    "from_role_id": "ROLE-031",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-031",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-11-01",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000490",
+    "employee_id": "EMP-000965",
+    "from_role_id": "ROLE-042",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-042",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-03-16",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000491",
+    "employee_id": "EMP-001750",
+    "from_role_id": "ROLE-038",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-038",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-06-24",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000492",
+    "employee_id": "EMP-004523",
+    "from_role_id": "ROLE-031",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-031",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-11-15",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000493",
+    "employee_id": "EMP-002682",
+    "from_role_id": "ROLE-021",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-021",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-10-25",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000494",
+    "employee_id": "EMP-002706",
+    "from_role_id": "ROLE-027",
+    "from_level_id": "LEVEL-002",
+    "to_role_id": "ROLE-027",
+    "to_level_id": "LEVEL-003",
+    "effective_date": "2025-09-04",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000495",
+    "employee_id": "EMP-001717",
+    "from_role_id": "ROLE-030",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-030",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-08-20",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000496",
+    "employee_id": "EMP-000827",
+    "from_role_id": "ROLE-007",
+    "from_level_id": "LEVEL-003",
+    "to_role_id": "ROLE-007",
+    "to_level_id": "LEVEL-004",
+    "effective_date": "2025-02-03",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000497",
+    "employee_id": "EMP-001053",
+    "from_role_id": "ROLE-014",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-014",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-04-14",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000498",
+    "employee_id": "EMP-004425",
+    "from_role_id": "ROLE-007",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-007",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-07-12",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000499",
+    "employee_id": "EMP-000961",
+    "from_role_id": "ROLE-041",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-041",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-07-01",
+    "status": "COMPLETED"
+  },
+  {
+    "promotion_id": "PROMO-2025-000500",
+    "employee_id": "EMP-002489",
+    "from_role_id": "ROLE-023",
+    "from_level_id": "LEVEL-001",
+    "to_role_id": "ROLE-023",
+    "to_level_id": "LEVEL-002",
+    "effective_date": "2025-05-11",
+    "status": "COMPLETED"
+  }
+]

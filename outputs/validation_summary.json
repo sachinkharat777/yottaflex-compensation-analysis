@@ -1,0 +1,64 @@
+{
+  "database": "D:\\YottaFlex round 3 chatgpt\\yottaflex-compensation-analysis\\database\\compensation.db",
+  "total_checks": 11,
+  "passed_checks": 11,
+  "failed_checks": 0,
+  "overall_status": "PASS",
+  "checks": [
+    {
+      "name": "Foreign key integrity",
+      "passed": true,
+      "issue_count": 0
+    },
+    {
+      "name": "Duplicate employee IDs",
+      "passed": true,
+      "issue_count": 0
+    },
+    {
+      "name": "Invalid salary amounts",
+      "passed": true,
+      "issue_count": 0
+    },
+    {
+      "name": "Invalid salary FTE",
+      "passed": true,
+      "issue_count": 0
+    },
+    {
+      "name": "Invalid salary date ranges",
+      "passed": true,
+      "issue_count": 0
+    },
+    {
+      "name": "Invalid assignment date ranges",
+      "passed": true,
+      "issue_count": 0
+    },
+    {
+      "name": "Invalid compensation bands",
+      "passed": true,
+      "issue_count": 0
+    },
+    {
+      "name": "Invalid proposal statuses",
+      "passed": true,
+      "issue_count": 0
+    },
+    {
+      "name": "Invalid approval decisions",
+      "passed": true,
+      "issue_count": 0
+    },
+    {
+      "name": "Overlapping employee assignments",
+      "passed": true,
+      "issue_count": 0
+    },
+    {
+      "name": "Overlapping compensation bands",
+      "passed": true,
+      "issue_count": 0
+    }
+  ]
+}

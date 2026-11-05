@@ -1,0 +1,1002 @@
+[
+  {
+    "proposal_id": "ADJ-2026-000001",
+    "evidence_id": "EVD-EMP-001894-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000002",
+    "evidence_id": "EVD-EMP-002053-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000003",
+    "evidence_id": "EVD-EMP-004361-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000004",
+    "evidence_id": "EVD-EMP-001376-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000005",
+    "evidence_id": "EVD-EMP-000684-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000006",
+    "evidence_id": "EVD-EMP-003535-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000007",
+    "evidence_id": "EVD-EMP-003790-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000008",
+    "evidence_id": "EVD-EMP-000218-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000009",
+    "evidence_id": "EVD-EMP-003879-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000010",
+    "evidence_id": "EVD-EMP-001049-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000011",
+    "evidence_id": "EVD-EMP-000871-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000012",
+    "evidence_id": "EVD-EMP-002158-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000013",
+    "evidence_id": "EVD-EMP-002257-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000014",
+    "evidence_id": "EVD-EMP-000240-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000015",
+    "evidence_id": "EVD-EMP-000357-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000016",
+    "evidence_id": "EVD-EMP-000925-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000017",
+    "evidence_id": "EVD-EMP-001329-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000018",
+    "evidence_id": "EVD-EMP-003735-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000019",
+    "evidence_id": "EVD-EMP-000366-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000020",
+    "evidence_id": "EVD-EMP-000692-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000021",
+    "evidence_id": "EVD-EMP-001341-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000022",
+    "evidence_id": "EVD-EMP-003609-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000023",
+    "evidence_id": "EVD-EMP-000590-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000024",
+    "evidence_id": "EVD-EMP-000098-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000025",
+    "evidence_id": "EVD-EMP-001736-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000026",
+    "evidence_id": "EVD-EMP-002558-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000027",
+    "evidence_id": "EVD-EMP-002302-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000028",
+    "evidence_id": "EVD-EMP-003865-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000029",
+    "evidence_id": "EVD-EMP-003242-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000030",
+    "evidence_id": "EVD-EMP-003549-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000031",
+    "evidence_id": "EVD-EMP-001397-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000032",
+    "evidence_id": "EVD-EMP-000531-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000033",
+    "evidence_id": "EVD-EMP-004153-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000034",
+    "evidence_id": "EVD-EMP-000632-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000035",
+    "evidence_id": "EVD-EMP-003228-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000036",
+    "evidence_id": "EVD-EMP-001266-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000037",
+    "evidence_id": "EVD-EMP-001990-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000038",
+    "evidence_id": "EVD-EMP-000007-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000039",
+    "evidence_id": "EVD-EMP-003204-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000040",
+    "evidence_id": "EVD-EMP-000648-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000041",
+    "evidence_id": "EVD-EMP-003851-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000042",
+    "evidence_id": "EVD-EMP-000291-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000043",
+    "evidence_id": "EVD-EMP-003427-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000044",
+    "evidence_id": "EVD-EMP-001538-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000045",
+    "evidence_id": "EVD-EMP-004160-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000046",
+    "evidence_id": "EVD-EMP-002538-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000047",
+    "evidence_id": "EVD-EMP-003760-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000048",
+    "evidence_id": "EVD-EMP-000086-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000049",
+    "evidence_id": "EVD-EMP-003272-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000050",
+    "evidence_id": "EVD-EMP-001532-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000051",
+    "evidence_id": "EVD-EMP-004668-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000052",
+    "evidence_id": "EVD-EMP-000387-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000053",
+    "evidence_id": "EVD-EMP-001190-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000054",
+    "evidence_id": "EVD-EMP-000143-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000055",
+    "evidence_id": "EVD-EMP-003321-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000056",
+    "evidence_id": "EVD-EMP-003183-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000057",
+    "evidence_id": "EVD-EMP-004327-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000058",
+    "evidence_id": "EVD-EMP-004080-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000059",
+    "evidence_id": "EVD-EMP-000618-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000060",
+    "evidence_id": "EVD-EMP-004150-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000061",
+    "evidence_id": "EVD-EMP-001303-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000062",
+    "evidence_id": "EVD-EMP-001394-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000063",
+    "evidence_id": "EVD-EMP-004275-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000064",
+    "evidence_id": "EVD-EMP-001842-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000065",
+    "evidence_id": "EVD-EMP-002953-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000066",
+    "evidence_id": "EVD-EMP-004893-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000067",
+    "evidence_id": "EVD-EMP-002415-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000068",
+    "evidence_id": "EVD-EMP-004946-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000069",
+    "evidence_id": "EVD-EMP-001363-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000070",
+    "evidence_id": "EVD-EMP-000988-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000071",
+    "evidence_id": "EVD-EMP-003224-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000072",
+    "evidence_id": "EVD-EMP-003234-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000073",
+    "evidence_id": "EVD-EMP-000750-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000074",
+    "evidence_id": "EVD-EMP-004090-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000075",
+    "evidence_id": "EVD-EMP-004220-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000076",
+    "evidence_id": "EVD-EMP-004671-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000077",
+    "evidence_id": "EVD-EMP-001122-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000078",
+    "evidence_id": "EVD-EMP-004013-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000079",
+    "evidence_id": "EVD-EMP-000333-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000080",
+    "evidence_id": "EVD-EMP-001830-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000081",
+    "evidence_id": "EVD-EMP-003451-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000082",
+    "evidence_id": "EVD-EMP-004257-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000083",
+    "evidence_id": "EVD-EMP-003033-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000084",
+    "evidence_id": "EVD-EMP-004934-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000085",
+    "evidence_id": "EVD-EMP-000859-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000086",
+    "evidence_id": "EVD-EMP-002652-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000087",
+    "evidence_id": "EVD-EMP-003310-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000088",
+    "evidence_id": "EVD-EMP-003659-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000089",
+    "evidence_id": "EVD-EMP-000653-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000090",
+    "evidence_id": "EVD-EMP-003449-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000091",
+    "evidence_id": "EVD-EMP-004911-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000092",
+    "evidence_id": "EVD-EMP-004336-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000093",
+    "evidence_id": "EVD-EMP-002311-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000094",
+    "evidence_id": "EVD-EMP-001244-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000095",
+    "evidence_id": "EVD-EMP-001479-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000096",
+    "evidence_id": "EVD-EMP-001280-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000097",
+    "evidence_id": "EVD-EMP-000145-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000098",
+    "evidence_id": "EVD-EMP-002992-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000099",
+    "evidence_id": "EVD-EMP-002352-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000100",
+    "evidence_id": "EVD-EMP-003037-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000101",
+    "evidence_id": "EVD-EMP-002462-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000102",
+    "evidence_id": "EVD-EMP-004703-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000103",
+    "evidence_id": "EVD-EMP-003980-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000104",
+    "evidence_id": "EVD-EMP-003623-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000105",
+    "evidence_id": "EVD-EMP-003281-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000106",
+    "evidence_id": "EVD-EMP-002673-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000107",
+    "evidence_id": "EVD-EMP-002896-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000108",
+    "evidence_id": "EVD-EMP-003937-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000109",
+    "evidence_id": "EVD-EMP-001381-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000110",
+    "evidence_id": "EVD-EMP-000997-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000111",
+    "evidence_id": "EVD-EMP-004005-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000112",
+    "evidence_id": "EVD-EMP-000272-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000113",
+    "evidence_id": "EVD-EMP-001893-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000114",
+    "evidence_id": "EVD-EMP-002580-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000115",
+    "evidence_id": "EVD-EMP-003148-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000116",
+    "evidence_id": "EVD-EMP-000587-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000117",
+    "evidence_id": "EVD-EMP-002153-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000118",
+    "evidence_id": "EVD-EMP-001876-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000119",
+    "evidence_id": "EVD-EMP-003836-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000120",
+    "evidence_id": "EVD-EMP-002547-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000121",
+    "evidence_id": "EVD-EMP-003945-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000122",
+    "evidence_id": "EVD-EMP-000278-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000123",
+    "evidence_id": "EVD-EMP-001785-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000124",
+    "evidence_id": "EVD-EMP-004466-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000125",
+    "evidence_id": "EVD-EMP-001463-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000126",
+    "evidence_id": "EVD-EMP-003365-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000127",
+    "evidence_id": "EVD-EMP-000680-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000128",
+    "evidence_id": "EVD-EMP-003712-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000129",
+    "evidence_id": "EVD-EMP-003189-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000130",
+    "evidence_id": "EVD-EMP-002048-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000131",
+    "evidence_id": "EVD-EMP-003785-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000132",
+    "evidence_id": "EVD-EMP-004879-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000133",
+    "evidence_id": "EVD-EMP-000732-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000134",
+    "evidence_id": "EVD-EMP-002160-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000135",
+    "evidence_id": "EVD-EMP-004993-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000136",
+    "evidence_id": "EVD-EMP-000352-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000137",
+    "evidence_id": "EVD-EMP-003334-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000138",
+    "evidence_id": "EVD-EMP-001964-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000139",
+    "evidence_id": "EVD-EMP-002342-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000140",
+    "evidence_id": "EVD-EMP-002240-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000141",
+    "evidence_id": "EVD-EMP-001400-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000142",
+    "evidence_id": "EVD-EMP-001779-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000143",
+    "evidence_id": "EVD-EMP-000726-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000144",
+    "evidence_id": "EVD-EMP-004795-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000145",
+    "evidence_id": "EVD-EMP-000636-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000146",
+    "evidence_id": "EVD-EMP-003638-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000147",
+    "evidence_id": "EVD-EMP-000180-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000148",
+    "evidence_id": "EVD-EMP-002460-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000149",
+    "evidence_id": "EVD-EMP-001079-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000150",
+    "evidence_id": "EVD-EMP-004175-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000151",
+    "evidence_id": "EVD-EMP-000717-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000152",
+    "evidence_id": "EVD-EMP-000348-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000153",
+    "evidence_id": "EVD-EMP-001045-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000154",
+    "evidence_id": "EVD-EMP-001800-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000155",
+    "evidence_id": "EVD-EMP-002977-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000156",
+    "evidence_id": "EVD-EMP-002234-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000157",
+    "evidence_id": "EVD-EMP-002793-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000158",
+    "evidence_id": "EVD-EMP-003752-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000159",
+    "evidence_id": "EVD-EMP-003010-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000160",
+    "evidence_id": "EVD-EMP-003809-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000161",
+    "evidence_id": "EVD-EMP-000002-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000162",
+    "evidence_id": "EVD-EMP-000724-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000163",
+    "evidence_id": "EVD-EMP-004492-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000164",
+    "evidence_id": "EVD-EMP-002838-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000165",
+    "evidence_id": "EVD-EMP-004131-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000166",
+    "evidence_id": "EVD-EMP-004331-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000167",
+    "evidence_id": "EVD-EMP-001468-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000168",
+    "evidence_id": "EVD-EMP-004460-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000169",
+    "evidence_id": "EVD-EMP-001652-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000170",
+    "evidence_id": "EVD-EMP-003802-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000171",
+    "evidence_id": "EVD-EMP-004488-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000172",
+    "evidence_id": "EVD-EMP-002668-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000173",
+    "evidence_id": "EVD-EMP-000838-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000174",
+    "evidence_id": "EVD-EMP-004926-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000175",
+    "evidence_id": "EVD-EMP-000053-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000176",
+    "evidence_id": "EVD-EMP-003612-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000177",
+    "evidence_id": "EVD-EMP-004741-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000178",
+    "evidence_id": "EVD-EMP-001258-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000179",
+    "evidence_id": "EVD-EMP-002450-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000180",
+    "evidence_id": "EVD-EMP-002316-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000181",
+    "evidence_id": "EVD-EMP-001564-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000182",
+    "evidence_id": "EVD-EMP-004508-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000183",
+    "evidence_id": "EVD-EMP-004373-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000184",
+    "evidence_id": "EVD-EMP-000783-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000185",
+    "evidence_id": "EVD-EMP-004562-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000186",
+    "evidence_id": "EVD-EMP-000122-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000187",
+    "evidence_id": "EVD-EMP-000378-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000188",
+    "evidence_id": "EVD-EMP-004954-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000189",
+    "evidence_id": "EVD-EMP-002621-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000190",
+    "evidence_id": "EVD-EMP-004910-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000191",
+    "evidence_id": "EVD-EMP-003868-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000192",
+    "evidence_id": "EVD-EMP-000778-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000193",
+    "evidence_id": "EVD-EMP-002543-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000194",
+    "evidence_id": "EVD-EMP-004028-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000195",
+    "evidence_id": "EVD-EMP-003540-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000196",
+    "evidence_id": "EVD-EMP-001139-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000197",
+    "evidence_id": "EVD-EMP-003581-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000198",
+    "evidence_id": "EVD-EMP-000247-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000199",
+    "evidence_id": "EVD-EMP-002540-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000200",
+    "evidence_id": "EVD-EMP-000453-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000201",
+    "evidence_id": "EVD-EMP-000298-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000202",
+    "evidence_id": "EVD-EMP-003537-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000203",
+    "evidence_id": "EVD-EMP-002410-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000204",
+    "evidence_id": "EVD-EMP-003287-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000205",
+    "evidence_id": "EVD-EMP-000944-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000206",
+    "evidence_id": "EVD-EMP-002934-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000207",
+    "evidence_id": "EVD-EMP-002975-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000208",
+    "evidence_id": "EVD-EMP-000038-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000209",
+    "evidence_id": "EVD-EMP-000822-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000210",
+    "evidence_id": "EVD-EMP-000932-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000211",
+    "evidence_id": "EVD-EMP-001586-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000212",
+    "evidence_id": "EVD-EMP-001108-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000213",
+    "evidence_id": "EVD-EMP-003043-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000214",
+    "evidence_id": "EVD-EMP-001343-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000215",
+    "evidence_id": "EVD-EMP-004777-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000216",
+    "evidence_id": "EVD-EMP-000829-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000217",
+    "evidence_id": "EVD-EMP-002578-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000218",
+    "evidence_id": "EVD-EMP-004801-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000219",
+    "evidence_id": "EVD-EMP-003289-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000220",
+    "evidence_id": "EVD-EMP-003862-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000221",
+    "evidence_id": "EVD-EMP-003014-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000222",
+    "evidence_id": "EVD-EMP-004430-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000223",
+    "evidence_id": "EVD-EMP-002314-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000224",
+    "evidence_id": "EVD-EMP-002786-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000225",
+    "evidence_id": "EVD-EMP-000225-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000226",
+    "evidence_id": "EVD-EMP-000895-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000227",
+    "evidence_id": "EVD-EMP-000071-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000228",
+    "evidence_id": "EVD-EMP-001006-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000229",
+    "evidence_id": "EVD-EMP-000271-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000230",
+    "evidence_id": "EVD-EMP-000380-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000231",
+    "evidence_id": "EVD-EMP-000538-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000232",
+    "evidence_id": "EVD-EMP-002632-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000233",
+    "evidence_id": "EVD-EMP-002050-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000234",
+    "evidence_id": "EVD-EMP-004134-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000235",
+    "evidence_id": "EVD-EMP-003645-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000236",
+    "evidence_id": "EVD-EMP-003628-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000237",
+    "evidence_id": "EVD-EMP-001992-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000238",
+    "evidence_id": "EVD-EMP-004994-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000239",
+    "evidence_id": "EVD-EMP-001505-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000240",
+    "evidence_id": "EVD-EMP-001107-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000241",
+    "evidence_id": "EVD-EMP-002001-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000242",
+    "evidence_id": "EVD-EMP-001872-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000243",
+    "evidence_id": "EVD-EMP-003552-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000244",
+    "evidence_id": "EVD-EMP-004207-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000245",
+    "evidence_id": "EVD-EMP-003686-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000246",
+    "evidence_id": "EVD-EMP-003367-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000247",
+    "evidence_id": "EVD-EMP-003474-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000248",
+    "evidence_id": "EVD-EMP-003823-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000249",
+    "evidence_id": "EVD-EMP-003473-2026"
+  },
+  {
+    "proposal_id": "ADJ-2026-000250",
+    "evidence_id": "EVD-EMP-003541-2026"
+  }
+]

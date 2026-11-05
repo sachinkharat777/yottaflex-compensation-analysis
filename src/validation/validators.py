@@ -32,158 +32,183 @@ def check_band_date_overlaps(conn):
     return conn.execute(query).fetchone()[0]
 
 
-def run_validations():
+def collect_validation_results(db_path=None):
+    """
+    Run all data validation checks and return structured results.
 
-    conn = sqlite3.connect(DB_PATH)
+    This function does not modify the database.
+    """
+    db_path = Path(db_path) if db_path is not None else DB_PATH
+
+    conn = sqlite3.connect(db_path)
     conn.execute("PRAGMA foreign_keys = ON")
 
     checks = []
 
-    def check(name, sql):
-        count = conn.execute(sql).fetchone()[0]
-        checks.append((name, count == 0, count))
+    def add_check(name, issue_count):
+        checks.append({
+            "name": name,
+            "passed": issue_count == 0,
+            "issue_count": issue_count,
+        })
 
-    # 1. Foreign key integrity
-    foreign_key_errors = conn.execute(
-        "PRAGMA foreign_key_check"
-    ).fetchall()
+    try:
+        # 1. Foreign key integrity
+        foreign_key_errors = conn.execute(
+            "PRAGMA foreign_key_check"
+        ).fetchall()
 
-    checks.append((
-        "Foreign key integrity",
-        len(foreign_key_errors) == 0,
-        len(foreign_key_errors)
-    ))
-
-    # 2. Employee IDs must be unique
-    check(
-        "Duplicate employee IDs",
-        """
-        SELECT COUNT(*) FROM (
-            SELECT employee_id
-            FROM Employee
-            GROUP BY employee_id
-            HAVING COUNT(*) > 1
+        add_check(
+            "Foreign key integrity",
+            len(foreign_key_errors)
         )
-        """
-    )
 
-    # 3. Salary must be positive
-    check(
-        "Invalid salary amounts",
-        """
-        SELECT COUNT(*)
-        FROM SalaryRecord
-        WHERE annual_base_salary <= 0
-        """
-    )
-
-    # 4. FTE must be greater than 0 and <= 1
-    check(
-        "Invalid salary FTE",
-        """
-        SELECT COUNT(*)
-        FROM SalaryRecord
-        WHERE fte <= 0 OR fte > 1
-        """
-    )
-
-    # 5. Salary dates must be valid
-    check(
-        "Invalid salary date ranges",
-        """
-        SELECT COUNT(*)
-        FROM SalaryRecord
-        WHERE effective_end IS NOT NULL
-        AND effective_start >= effective_end
-        """
-    )
-
-    # 6. Assignment dates must be valid
-    check(
-        "Invalid assignment date ranges",
-        """
-        SELECT COUNT(*)
-        FROM EmployeeAssignment
-        WHERE effective_end IS NOT NULL
-        AND effective_start >= effective_end
-        """
-    )
-
-    # 7. Compensation band arithmetic
-    check(
-        "Invalid compensation bands",
-        """
-        SELECT COUNT(*)
-        FROM CompensationBand
-        WHERE min_salary <= 0
-        OR min_salary > midpoint_salary
-        OR midpoint_salary > max_salary
-        """
-    )
-
-    # 8. Proposal statuses must be valid
-    check(
-        "Invalid proposal statuses",
-        """
-        SELECT COUNT(*)
-        FROM AdjustmentProposal
-        WHERE status NOT IN (
-            'DRAFT',
-            'SUBMITTED',
-            'APPROVED',
-            'REJECTED',
-            'WITHDRAWN'
+        # 2. Employee IDs must be unique
+        add_check(
+            "Duplicate employee IDs",
+            conn.execute("""
+                SELECT COUNT(*) FROM (
+                    SELECT employee_id
+                    FROM Employee
+                    GROUP BY employee_id
+                    HAVING COUNT(*) > 1
+                )
+            """).fetchone()[0]
         )
-        """
-    )
 
-    # 9. Approval events must have valid decisions
-    check(
-        "Invalid approval decisions",
-        """
-        SELECT COUNT(*)
-        FROM ApprovalEvent
-        WHERE decision NOT IN (
-            'APPROVED',
-            'REJECTED',
-            'RETURNED'
+        # 3. Salary must be positive
+        add_check(
+            "Invalid salary amounts",
+            conn.execute("""
+                SELECT COUNT(*)
+                FROM SalaryRecord
+                WHERE annual_base_salary <= 0
+            """).fetchone()[0]
         )
-        """
-    )
 
-    # 10. An employee must not have overlapping assignments
-    assignment_overlap_count = check_assignment_date_overlaps(conn)
-    checks.append((
-        "Overlapping employee assignments",
-        assignment_overlap_count == 0,
-        assignment_overlap_count
-    ))
+        # 4. FTE must be greater than 0 and <= 1
+        add_check(
+            "Invalid salary FTE",
+            conn.execute("""
+                SELECT COUNT(*)
+                FROM SalaryRecord
+                WHERE fte <= 0 OR fte > 1
+            """).fetchone()[0]
+        )
 
-    # 11. A role/level/location must not have overlapping bands
-    band_overlap_count = check_band_date_overlaps(conn)
-    checks.append((
-        "Overlapping compensation bands",
-        band_overlap_count == 0,
-        band_overlap_count
-    ))
+        # 5. Salary dates must be valid
+        add_check(
+            "Invalid salary date ranges",
+            conn.execute("""
+                SELECT COUNT(*)
+                FROM SalaryRecord
+                WHERE effective_end IS NOT NULL
+                AND effective_start >= effective_end
+            """).fetchone()[0]
+        )
 
-    conn.close()
+        # 6. Assignment dates must be valid
+        add_check(
+            "Invalid assignment date ranges",
+            conn.execute("""
+                SELECT COUNT(*)
+                FROM EmployeeAssignment
+                WHERE effective_end IS NOT NULL
+                AND effective_start >= effective_end
+            """).fetchone()[0]
+        )
+
+        # 7. Compensation band arithmetic
+        add_check(
+            "Invalid compensation bands",
+            conn.execute("""
+                SELECT COUNT(*)
+                FROM CompensationBand
+                WHERE min_salary <= 0
+                OR min_salary > midpoint_salary
+                OR midpoint_salary > max_salary
+            """).fetchone()[0]
+        )
+
+        # 8. Proposal statuses must be valid
+        add_check(
+            "Invalid proposal statuses",
+            conn.execute("""
+                SELECT COUNT(*)
+                FROM AdjustmentProposal
+                WHERE status NOT IN (
+                    'DRAFT',
+                    'SUBMITTED',
+                    'APPROVED',
+                    'REJECTED',
+                    'WITHDRAWN'
+                )
+            """).fetchone()[0]
+        )
+
+        # 9. Approval events must have valid decisions
+        add_check(
+            "Invalid approval decisions",
+            conn.execute("""
+                SELECT COUNT(*)
+                FROM ApprovalEvent
+                WHERE decision NOT IN (
+                    'APPROVED',
+                    'REJECTED',
+                    'RETURNED'
+                )
+            """).fetchone()[0]
+        )
+
+        # 10. Employee assignments must not overlap
+        add_check(
+            "Overlapping employee assignments",
+            check_assignment_date_overlaps(conn)
+        )
+
+        # 11. Compensation bands must not overlap
+        add_check(
+            "Overlapping compensation bands",
+            check_band_date_overlaps(conn)
+        )
+
+    finally:
+        conn.close()
+
+    total = len(checks)
+    passed_count = sum(1 for item in checks if item["passed"])
+
+    return {
+        "database": str(db_path),
+        "total_checks": total,
+        "passed_checks": passed_count,
+        "failed_checks": total - passed_count,
+        "overall_status": "PASS" if passed_count == total else "FAIL",
+        "checks": checks,
+    }
+
+
+def run_validations():
+    results = collect_validation_results()
 
     print("\n========== DATA VALIDATION REPORT ==========\n")
 
-    for name, passed, count in checks:
-        status = "PASS" if passed else "FAIL"
-        print(f"{status:6} | {name} | Issues: {count}")
-
-    total = len(checks)
-    passed_count = sum(1 for _, passed, _ in checks if passed)
+    for item in results["checks"]:
+        status = "PASS" if item["passed"] else "FAIL"
+        print(
+            f"{status:6} | {item['name']} "
+            f"| Issues: {item['issue_count']}"
+        )
 
     print("\n============================================")
-    print(f"Checks passed: {passed_count}/{total}")
-    print(f"Checks failed: {total - passed_count}")
+    print(
+        f"Checks passed: "
+        f"{results['passed_checks']}/{results['total_checks']}"
+    )
+    print(f"Checks failed: {results['failed_checks']}")
     print("============================================")
 
-    return total == passed_count
+    return results["overall_status"] == "PASS"
 
 
 if __name__ == "__main__":

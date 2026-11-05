@@ -26,7 +26,6 @@ htmlcov/
 # Operating system files
 .DS_Store
 Thumbs.db
-desktop.ini
 
 # Database backups
 database/*backup*.db
@@ -36,3 +35,4 @@ database/*backup*.sqlite3
 # Temporary files
 *.tmp
 *.log
+*.phase5_backup

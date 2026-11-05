@@ -4,18 +4,28 @@ from pathlib import Path
 import random
 import sqlite3
 
+try:
+    from .config import SEED, PROMOTION_COUNT, SEED_OFFSETS
+except ImportError:
+    from config import SEED, PROMOTION_COUNT, SEED_OFFSETS
+
+
 ROOT = Path(__file__).resolve().parents[2]
 DB_PATH = ROOT / "database" / "compensation.db"
-
-SEED = 20261022
-PROMOTION_COUNT = 500
 
 PROMOTION_START = date(2025, 1, 1)
 PROMOTION_END = date(2025, 12, 1)
 
 
-def generate_promotions():
-    rng = random.Random(SEED)
+def generate_promotions(
+    promotion_count=PROMOTION_COUNT,
+    seed=SEED
+):
+    if promotion_count < 0:
+        raise ValueError("promotion_count cannot be negative.")
+
+    actual_seed = seed + SEED_OFFSETS["promotions"]
+    rng = random.Random(actual_seed)
 
     with sqlite3.connect(DB_PATH) as conn:
         conn.execute("PRAGMA foreign_keys = ON")
@@ -43,12 +53,12 @@ def generate_promotions():
             """
         ).fetchall()
 
-        if not eligible:
+        if not eligible and promotion_count > 0:
             raise ValueError("No eligible employees found.")
 
         sample = rng.sample(
             eligible,
-            k=min(PROMOTION_COUNT, len(eligible))
+            k=min(promotion_count, len(eligible))
         )
 
         levels = conn.execute(
@@ -83,6 +93,7 @@ def generate_promotions():
                 continue
 
             days = (PROMOTION_END - PROMOTION_START).days
+
             promotion_date = PROMOTION_START + timedelta(
                 days=rng.randrange(days)
             )
@@ -97,7 +108,10 @@ def generate_promotions():
                     change_reason = 'PROMOTION'
                 WHERE assignment_id = ?
                 """,
-                (promotion_date.isoformat(), old_assignment_id),
+                (
+                    promotion_date.isoformat(),
+                    old_assignment_id,
+                ),
             )
 
             conn.execute(
@@ -157,6 +171,9 @@ def generate_promotions():
 
         print(f"Eligible employees: {len(eligible)}")
         print(f"Completed promotions generated: {total}")
+        print(f"Seed used: {actual_seed}")
+
+        return total
 
 
 if __name__ == "__main__":

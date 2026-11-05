@@ -1,0 +1,16 @@
+[
+  {
+    "currency_rate_id": "FX-INR-2026",
+    "currency_code": "INR",
+    "rate_to_inr": 1.0,
+    "effective_date": "2026-01-01",
+    "source": "SYNTHETIC_ASSUMPTION"
+  },
+  {
+    "currency_rate_id": "FX-GBP-2026",
+    "currency_code": "GBP",
+    "rate_to_inr": 110.0,
+    "effective_date": "2026-01-01",
+    "source": "SYNTHETIC_ASSUMPTION"
+  }
+]

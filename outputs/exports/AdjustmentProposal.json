@@ -1,0 +1,2252 @@
+[
+  {
+    "proposal_id": "ADJ-2026-000001",
+    "employee_id": "EMP-001894",
+    "proposed_annual_salary": 2488323.48,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000002",
+    "employee_id": "EMP-002053",
+    "proposed_annual_salary": 1052419.08,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000003",
+    "employee_id": "EMP-004361",
+    "proposed_annual_salary": 2414008.18,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000004",
+    "employee_id": "EMP-001376",
+    "proposed_annual_salary": 5051175.7,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000005",
+    "employee_id": "EMP-000684",
+    "proposed_annual_salary": 194643.03,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000006",
+    "employee_id": "EMP-003535",
+    "proposed_annual_salary": 4190071.39,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000007",
+    "employee_id": "EMP-003790",
+    "proposed_annual_salary": 4741625.71,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000008",
+    "employee_id": "EMP-000218",
+    "proposed_annual_salary": 769361.33,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000009",
+    "employee_id": "EMP-003879",
+    "proposed_annual_salary": 132400.53,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000010",
+    "employee_id": "EMP-001049",
+    "proposed_annual_salary": 605289.35,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000011",
+    "employee_id": "EMP-000871",
+    "proposed_annual_salary": 2739074.93,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000012",
+    "employee_id": "EMP-002158",
+    "proposed_annual_salary": 4209427.24,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000013",
+    "employee_id": "EMP-002257",
+    "proposed_annual_salary": 1274322.3,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000014",
+    "employee_id": "EMP-000240",
+    "proposed_annual_salary": 130919.77,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000015",
+    "employee_id": "EMP-000357",
+    "proposed_annual_salary": 123641.79,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000016",
+    "employee_id": "EMP-000925",
+    "proposed_annual_salary": 2375903.1,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000017",
+    "employee_id": "EMP-001329",
+    "proposed_annual_salary": 99050.93,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000018",
+    "employee_id": "EMP-003735",
+    "proposed_annual_salary": 237266.89,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000019",
+    "employee_id": "EMP-000366",
+    "proposed_annual_salary": 180249.37,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000020",
+    "employee_id": "EMP-000692",
+    "proposed_annual_salary": 3976980.82,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000021",
+    "employee_id": "EMP-001341",
+    "proposed_annual_salary": 74802.41,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000022",
+    "employee_id": "EMP-003609",
+    "proposed_annual_salary": 21872.71,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000023",
+    "employee_id": "EMP-000590",
+    "proposed_annual_salary": 5043088.93,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000024",
+    "employee_id": "EMP-000098",
+    "proposed_annual_salary": 2836312.45,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000025",
+    "employee_id": "EMP-001736",
+    "proposed_annual_salary": 3994357.53,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000026",
+    "employee_id": "EMP-002558",
+    "proposed_annual_salary": 2585035.29,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000027",
+    "employee_id": "EMP-002302",
+    "proposed_annual_salary": 1332186.84,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000028",
+    "employee_id": "EMP-003865",
+    "proposed_annual_salary": 1035134.51,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000029",
+    "employee_id": "EMP-003242",
+    "proposed_annual_salary": 1779461.99,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000030",
+    "employee_id": "EMP-003549",
+    "proposed_annual_salary": 56466.09,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000031",
+    "employee_id": "EMP-001397",
+    "proposed_annual_salary": 1144141.63,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000032",
+    "employee_id": "EMP-000531",
+    "proposed_annual_salary": 215446.47,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000033",
+    "employee_id": "EMP-004153",
+    "proposed_annual_salary": 1927946.07,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000034",
+    "employee_id": "EMP-000632",
+    "proposed_annual_salary": 911974.09,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000035",
+    "employee_id": "EMP-003228",
+    "proposed_annual_salary": 106680.58,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000036",
+    "employee_id": "EMP-001266",
+    "proposed_annual_salary": 162047.15,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000037",
+    "employee_id": "EMP-001990",
+    "proposed_annual_salary": 3722281.73,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000038",
+    "employee_id": "EMP-000007",
+    "proposed_annual_salary": 880888.63,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000039",
+    "employee_id": "EMP-003204",
+    "proposed_annual_salary": 72331.54,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000040",
+    "employee_id": "EMP-000648",
+    "proposed_annual_salary": 86393.11,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000041",
+    "employee_id": "EMP-003851",
+    "proposed_annual_salary": 2079672.63,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000042",
+    "employee_id": "EMP-000291",
+    "proposed_annual_salary": 123192.73,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000043",
+    "employee_id": "EMP-003427",
+    "proposed_annual_salary": 1408790.85,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000044",
+    "employee_id": "EMP-001538",
+    "proposed_annual_salary": 2051837.46,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000045",
+    "employee_id": "EMP-004160",
+    "proposed_annual_salary": 5747231.35,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000046",
+    "employee_id": "EMP-002538",
+    "proposed_annual_salary": 231826.88,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000047",
+    "employee_id": "EMP-003760",
+    "proposed_annual_salary": 4984171.5,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000048",
+    "employee_id": "EMP-000086",
+    "proposed_annual_salary": 1980877.75,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000049",
+    "employee_id": "EMP-003272",
+    "proposed_annual_salary": 3561147.48,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000050",
+    "employee_id": "EMP-001532",
+    "proposed_annual_salary": 5303633.48,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000051",
+    "employee_id": "EMP-004668",
+    "proposed_annual_salary": 195977.99,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000052",
+    "employee_id": "EMP-000387",
+    "proposed_annual_salary": 327671.15,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000053",
+    "employee_id": "EMP-001190",
+    "proposed_annual_salary": 3328877.07,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000054",
+    "employee_id": "EMP-000143",
+    "proposed_annual_salary": 4239620.5,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000055",
+    "employee_id": "EMP-003321",
+    "proposed_annual_salary": 111750.27,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000056",
+    "employee_id": "EMP-003183",
+    "proposed_annual_salary": 139582.91,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000057",
+    "employee_id": "EMP-004327",
+    "proposed_annual_salary": 2146453.96,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000058",
+    "employee_id": "EMP-004080",
+    "proposed_annual_salary": 164581.09,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000059",
+    "employee_id": "EMP-000618",
+    "proposed_annual_salary": 68705.41,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000060",
+    "employee_id": "EMP-004150",
+    "proposed_annual_salary": 3677409.19,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000061",
+    "employee_id": "EMP-001303",
+    "proposed_annual_salary": 2571857.49,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000062",
+    "employee_id": "EMP-001394",
+    "proposed_annual_salary": 4239977.26,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000063",
+    "employee_id": "EMP-004275",
+    "proposed_annual_salary": 93199.33,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000064",
+    "employee_id": "EMP-001842",
+    "proposed_annual_salary": 100466.42,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000065",
+    "employee_id": "EMP-002953",
+    "proposed_annual_salary": 2263502.63,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000066",
+    "employee_id": "EMP-004893",
+    "proposed_annual_salary": 77649.47,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000067",
+    "employee_id": "EMP-002415",
+    "proposed_annual_salary": 73735.82,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000068",
+    "employee_id": "EMP-004946",
+    "proposed_annual_salary": 3349604.05,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000069",
+    "employee_id": "EMP-001363",
+    "proposed_annual_salary": 3205067.1,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000070",
+    "employee_id": "EMP-000988",
+    "proposed_annual_salary": 6025988.56,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000071",
+    "employee_id": "EMP-003224",
+    "proposed_annual_salary": 1007925.04,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000072",
+    "employee_id": "EMP-003234",
+    "proposed_annual_salary": 66014.91,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000073",
+    "employee_id": "EMP-000750",
+    "proposed_annual_salary": 171654.47,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000074",
+    "employee_id": "EMP-004090",
+    "proposed_annual_salary": 2325230.22,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000075",
+    "employee_id": "EMP-004220",
+    "proposed_annual_salary": 1687700.91,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000076",
+    "employee_id": "EMP-004671",
+    "proposed_annual_salary": 141276.29,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000077",
+    "employee_id": "EMP-001122",
+    "proposed_annual_salary": 106708.88,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000078",
+    "employee_id": "EMP-004013",
+    "proposed_annual_salary": 521310.43,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000079",
+    "employee_id": "EMP-000333",
+    "proposed_annual_salary": 81537.7,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000080",
+    "employee_id": "EMP-001830",
+    "proposed_annual_salary": 66527.36,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000081",
+    "employee_id": "EMP-003451",
+    "proposed_annual_salary": 2409023.17,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000082",
+    "employee_id": "EMP-004257",
+    "proposed_annual_salary": 74467.89,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000083",
+    "employee_id": "EMP-003033",
+    "proposed_annual_salary": 30951.24,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000084",
+    "employee_id": "EMP-004934",
+    "proposed_annual_salary": 2615872.38,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000085",
+    "employee_id": "EMP-000859",
+    "proposed_annual_salary": 2355304.01,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000086",
+    "employee_id": "EMP-002652",
+    "proposed_annual_salary": 93373.04,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000087",
+    "employee_id": "EMP-003310",
+    "proposed_annual_salary": 1515657.93,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000088",
+    "employee_id": "EMP-003659",
+    "proposed_annual_salary": 2340437.03,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000089",
+    "employee_id": "EMP-000653",
+    "proposed_annual_salary": 1042186.56,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000090",
+    "employee_id": "EMP-003449",
+    "proposed_annual_salary": 808126.63,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000091",
+    "employee_id": "EMP-004911",
+    "proposed_annual_salary": 187906.89,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000092",
+    "employee_id": "EMP-004336",
+    "proposed_annual_salary": 4671332.9,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000093",
+    "employee_id": "EMP-002311",
+    "proposed_annual_salary": 3876134.5,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000094",
+    "employee_id": "EMP-001244",
+    "proposed_annual_salary": 1882346.72,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000095",
+    "employee_id": "EMP-001479",
+    "proposed_annual_salary": 227012.14,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000096",
+    "employee_id": "EMP-001280",
+    "proposed_annual_salary": 1379866.47,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000097",
+    "employee_id": "EMP-000145",
+    "proposed_annual_salary": 1022656.46,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000098",
+    "employee_id": "EMP-002992",
+    "proposed_annual_salary": 4264455.17,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000099",
+    "employee_id": "EMP-002352",
+    "proposed_annual_salary": 360321.51,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000100",
+    "employee_id": "EMP-003037",
+    "proposed_annual_salary": 876211.24,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000101",
+    "employee_id": "EMP-002462",
+    "proposed_annual_salary": 1616265.09,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000102",
+    "employee_id": "EMP-004703",
+    "proposed_annual_salary": 2761865.93,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000103",
+    "employee_id": "EMP-003980",
+    "proposed_annual_salary": 4017162.6,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000104",
+    "employee_id": "EMP-003623",
+    "proposed_annual_salary": 1550398.12,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000105",
+    "employee_id": "EMP-003281",
+    "proposed_annual_salary": 1075281.22,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000106",
+    "employee_id": "EMP-002673",
+    "proposed_annual_salary": 57580.51,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000107",
+    "employee_id": "EMP-002896",
+    "proposed_annual_salary": 2777355.99,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000108",
+    "employee_id": "EMP-003937",
+    "proposed_annual_salary": 1712271.91,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000109",
+    "employee_id": "EMP-001381",
+    "proposed_annual_salary": 1950526.87,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000110",
+    "employee_id": "EMP-000997",
+    "proposed_annual_salary": 3046785.32,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000111",
+    "employee_id": "EMP-004005",
+    "proposed_annual_salary": 45739.5,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000112",
+    "employee_id": "EMP-000272",
+    "proposed_annual_salary": 1594670.31,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000113",
+    "employee_id": "EMP-001893",
+    "proposed_annual_salary": 108297.83,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000114",
+    "employee_id": "EMP-002580",
+    "proposed_annual_salary": 201077.72,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000115",
+    "employee_id": "EMP-003148",
+    "proposed_annual_salary": 2811127.5,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000116",
+    "employee_id": "EMP-000587",
+    "proposed_annual_salary": 4518430.37,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000117",
+    "employee_id": "EMP-002153",
+    "proposed_annual_salary": 2159144.93,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000118",
+    "employee_id": "EMP-001876",
+    "proposed_annual_salary": 3127046.21,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000119",
+    "employee_id": "EMP-003836",
+    "proposed_annual_salary": 1803107.25,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000120",
+    "employee_id": "EMP-002547",
+    "proposed_annual_salary": 280608.5,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000121",
+    "employee_id": "EMP-003945",
+    "proposed_annual_salary": 124088.93,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000122",
+    "employee_id": "EMP-000278",
+    "proposed_annual_salary": 1714154.61,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000123",
+    "employee_id": "EMP-001785",
+    "proposed_annual_salary": 169502.21,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000124",
+    "employee_id": "EMP-004466",
+    "proposed_annual_salary": 1424321.6,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000125",
+    "employee_id": "EMP-001463",
+    "proposed_annual_salary": 2485631.81,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000126",
+    "employee_id": "EMP-003365",
+    "proposed_annual_salary": 2237930.81,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000127",
+    "employee_id": "EMP-000680",
+    "proposed_annual_salary": 1623448.15,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000128",
+    "employee_id": "EMP-003712",
+    "proposed_annual_salary": 3617883.97,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000129",
+    "employee_id": "EMP-003189",
+    "proposed_annual_salary": 131442.64,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000130",
+    "employee_id": "EMP-002048",
+    "proposed_annual_salary": 2365132.75,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000131",
+    "employee_id": "EMP-003785",
+    "proposed_annual_salary": 1385228.95,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000132",
+    "employee_id": "EMP-004879",
+    "proposed_annual_salary": 1857333.39,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000133",
+    "employee_id": "EMP-000732",
+    "proposed_annual_salary": 287123.85,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000134",
+    "employee_id": "EMP-002160",
+    "proposed_annual_salary": 213439.15,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000135",
+    "employee_id": "EMP-004993",
+    "proposed_annual_salary": 1522669.46,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000136",
+    "employee_id": "EMP-000352",
+    "proposed_annual_salary": 2246067.77,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000137",
+    "employee_id": "EMP-003334",
+    "proposed_annual_salary": 2799475.87,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000138",
+    "employee_id": "EMP-001964",
+    "proposed_annual_salary": 4913047.85,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000139",
+    "employee_id": "EMP-002342",
+    "proposed_annual_salary": 3705185.49,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000140",
+    "employee_id": "EMP-002240",
+    "proposed_annual_salary": 2026183.57,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000141",
+    "employee_id": "EMP-001400",
+    "proposed_annual_salary": 6235372.99,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000142",
+    "employee_id": "EMP-001779",
+    "proposed_annual_salary": 285462.29,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000143",
+    "employee_id": "EMP-000726",
+    "proposed_annual_salary": 98208.91,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000144",
+    "employee_id": "EMP-004795",
+    "proposed_annual_salary": 2629033.78,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000145",
+    "employee_id": "EMP-000636",
+    "proposed_annual_salary": 127165.16,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000146",
+    "employee_id": "EMP-003638",
+    "proposed_annual_salary": 1514104.49,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000147",
+    "employee_id": "EMP-000180",
+    "proposed_annual_salary": 317922.4,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000148",
+    "employee_id": "EMP-002460",
+    "proposed_annual_salary": 152077.77,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000149",
+    "employee_id": "EMP-001079",
+    "proposed_annual_salary": 2270917.89,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000150",
+    "employee_id": "EMP-004175",
+    "proposed_annual_salary": 4628604.69,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000151",
+    "employee_id": "EMP-000717",
+    "proposed_annual_salary": 119159.14,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000152",
+    "employee_id": "EMP-000348",
+    "proposed_annual_salary": 333785.77,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000153",
+    "employee_id": "EMP-001045",
+    "proposed_annual_salary": 665906.33,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000154",
+    "employee_id": "EMP-001800",
+    "proposed_annual_salary": 372577.91,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000155",
+    "employee_id": "EMP-002977",
+    "proposed_annual_salary": 1356114.04,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000156",
+    "employee_id": "EMP-002234",
+    "proposed_annual_salary": 1044940.77,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000157",
+    "employee_id": "EMP-002793",
+    "proposed_annual_salary": 154594.83,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000158",
+    "employee_id": "EMP-003752",
+    "proposed_annual_salary": 3493289.97,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000159",
+    "employee_id": "EMP-003010",
+    "proposed_annual_salary": 1068670.56,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000160",
+    "employee_id": "EMP-003809",
+    "proposed_annual_salary": 556117.87,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000161",
+    "employee_id": "EMP-000002",
+    "proposed_annual_salary": 622715.26,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000162",
+    "employee_id": "EMP-000724",
+    "proposed_annual_salary": 4526962.91,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000163",
+    "employee_id": "EMP-004492",
+    "proposed_annual_salary": 4218169.29,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000164",
+    "employee_id": "EMP-002838",
+    "proposed_annual_salary": 104072.37,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000165",
+    "employee_id": "EMP-004131",
+    "proposed_annual_salary": 190098.35,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000166",
+    "employee_id": "EMP-004331",
+    "proposed_annual_salary": 2002344.0,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000167",
+    "employee_id": "EMP-001468",
+    "proposed_annual_salary": 2610345.6,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000168",
+    "employee_id": "EMP-004460",
+    "proposed_annual_salary": 2398086.7,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000169",
+    "employee_id": "EMP-001652",
+    "proposed_annual_salary": 2147337.97,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000170",
+    "employee_id": "EMP-003802",
+    "proposed_annual_salary": 446326.45,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000171",
+    "employee_id": "EMP-004488",
+    "proposed_annual_salary": 227984.9,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000172",
+    "employee_id": "EMP-002668",
+    "proposed_annual_salary": 2333572.94,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000173",
+    "employee_id": "EMP-000838",
+    "proposed_annual_salary": 1141807.45,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000174",
+    "employee_id": "EMP-004926",
+    "proposed_annual_salary": 158246.48,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000175",
+    "employee_id": "EMP-000053",
+    "proposed_annual_salary": 1028269.81,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000176",
+    "employee_id": "EMP-003612",
+    "proposed_annual_salary": 98641.11,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000177",
+    "employee_id": "EMP-004741",
+    "proposed_annual_salary": 2468181.63,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000178",
+    "employee_id": "EMP-001258",
+    "proposed_annual_salary": 1931271.9,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000179",
+    "employee_id": "EMP-002450",
+    "proposed_annual_salary": 1353626.69,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000180",
+    "employee_id": "EMP-002316",
+    "proposed_annual_salary": 146607.51,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000181",
+    "employee_id": "EMP-001564",
+    "proposed_annual_salary": 6311396.45,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000182",
+    "employee_id": "EMP-004508",
+    "proposed_annual_salary": 3979816.11,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000183",
+    "employee_id": "EMP-004373",
+    "proposed_annual_salary": 3326809.08,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000184",
+    "employee_id": "EMP-000783",
+    "proposed_annual_salary": 150979.34,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000185",
+    "employee_id": "EMP-004562",
+    "proposed_annual_salary": 3234139.99,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000186",
+    "employee_id": "EMP-000122",
+    "proposed_annual_salary": 2064456.89,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000187",
+    "employee_id": "EMP-000378",
+    "proposed_annual_salary": 189934.43,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000188",
+    "employee_id": "EMP-004954",
+    "proposed_annual_salary": 2527485.83,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000189",
+    "employee_id": "EMP-002621",
+    "proposed_annual_salary": 457770.71,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000190",
+    "employee_id": "EMP-004910",
+    "proposed_annual_salary": 2790796.13,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000191",
+    "employee_id": "EMP-003868",
+    "proposed_annual_salary": 2865790.17,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000192",
+    "employee_id": "EMP-000778",
+    "proposed_annual_salary": 5368553.15,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000193",
+    "employee_id": "EMP-002543",
+    "proposed_annual_salary": 2295723.5,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000194",
+    "employee_id": "EMP-004028",
+    "proposed_annual_salary": 1709006.55,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000195",
+    "employee_id": "EMP-003540",
+    "proposed_annual_salary": 316280.03,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000196",
+    "employee_id": "EMP-001139",
+    "proposed_annual_salary": 4666338.29,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000197",
+    "employee_id": "EMP-003581",
+    "proposed_annual_salary": 3136617.72,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000198",
+    "employee_id": "EMP-000247",
+    "proposed_annual_salary": 1666352.21,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000199",
+    "employee_id": "EMP-002540",
+    "proposed_annual_salary": 5927668.17,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000200",
+    "employee_id": "EMP-000453",
+    "proposed_annual_salary": 73842.86,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000201",
+    "employee_id": "EMP-000298",
+    "proposed_annual_salary": 1954663.52,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000202",
+    "employee_id": "EMP-003537",
+    "proposed_annual_salary": 121806.5,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000203",
+    "employee_id": "EMP-002410",
+    "proposed_annual_salary": 723461.4,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000204",
+    "employee_id": "EMP-003287",
+    "proposed_annual_salary": 2779111.8,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000205",
+    "employee_id": "EMP-000944",
+    "proposed_annual_salary": 2605894.59,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000206",
+    "employee_id": "EMP-002934",
+    "proposed_annual_salary": 165551.82,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000207",
+    "employee_id": "EMP-002975",
+    "proposed_annual_salary": 6960239.63,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000208",
+    "employee_id": "EMP-000038",
+    "proposed_annual_salary": 1526760.69,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000209",
+    "employee_id": "EMP-000822",
+    "proposed_annual_salary": 74468.39,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000210",
+    "employee_id": "EMP-000932",
+    "proposed_annual_salary": 3517791.62,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000211",
+    "employee_id": "EMP-001586",
+    "proposed_annual_salary": 4401776.06,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000212",
+    "employee_id": "EMP-001108",
+    "proposed_annual_salary": 4783319.36,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000213",
+    "employee_id": "EMP-003043",
+    "proposed_annual_salary": 2028768.57,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000214",
+    "employee_id": "EMP-001343",
+    "proposed_annual_salary": 3262562.38,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000215",
+    "employee_id": "EMP-004777",
+    "proposed_annual_salary": 2141145.1,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000216",
+    "employee_id": "EMP-000829",
+    "proposed_annual_salary": 416115.39,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000217",
+    "employee_id": "EMP-002578",
+    "proposed_annual_salary": 3411934.85,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000218",
+    "employee_id": "EMP-004801",
+    "proposed_annual_salary": 592358.36,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000219",
+    "employee_id": "EMP-003289",
+    "proposed_annual_salary": 1785104.18,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000220",
+    "employee_id": "EMP-003862",
+    "proposed_annual_salary": 1507270.85,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000221",
+    "employee_id": "EMP-003014",
+    "proposed_annual_salary": 935096.04,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000222",
+    "employee_id": "EMP-004430",
+    "proposed_annual_salary": 1269080.3,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000223",
+    "employee_id": "EMP-002314",
+    "proposed_annual_salary": 2085609.54,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000224",
+    "employee_id": "EMP-002786",
+    "proposed_annual_salary": 2219519.38,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000225",
+    "employee_id": "EMP-000225",
+    "proposed_annual_salary": 54668.24,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000226",
+    "employee_id": "EMP-000895",
+    "proposed_annual_salary": 3000072.91,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000227",
+    "employee_id": "EMP-000071",
+    "proposed_annual_salary": 2129557.13,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000228",
+    "employee_id": "EMP-001006",
+    "proposed_annual_salary": 385700.61,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000229",
+    "employee_id": "EMP-000271",
+    "proposed_annual_salary": 1165070.49,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000230",
+    "employee_id": "EMP-000380",
+    "proposed_annual_salary": 5435331.73,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000231",
+    "employee_id": "EMP-000538",
+    "proposed_annual_salary": 1327859.54,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000232",
+    "employee_id": "EMP-002632",
+    "proposed_annual_salary": 1096268.56,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000233",
+    "employee_id": "EMP-002050",
+    "proposed_annual_salary": 1596920.71,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000234",
+    "employee_id": "EMP-004134",
+    "proposed_annual_salary": 96977.14,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000235",
+    "employee_id": "EMP-003645",
+    "proposed_annual_salary": 59409.26,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000236",
+    "employee_id": "EMP-003628",
+    "proposed_annual_salary": 1342786.93,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000237",
+    "employee_id": "EMP-001992",
+    "proposed_annual_salary": 318089.7,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000238",
+    "employee_id": "EMP-004994",
+    "proposed_annual_salary": 4494699.93,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "APPROVED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000239",
+    "employee_id": "EMP-001505",
+    "proposed_annual_salary": 1385288.82,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000240",
+    "employee_id": "EMP-001107",
+    "proposed_annual_salary": 157033.66,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000241",
+    "employee_id": "EMP-002001",
+    "proposed_annual_salary": 14593.94,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000242",
+    "employee_id": "EMP-001872",
+    "proposed_annual_salary": 95334.31,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000243",
+    "employee_id": "EMP-003552",
+    "proposed_annual_salary": 135035.46,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000244",
+    "employee_id": "EMP-004207",
+    "proposed_annual_salary": 675874.51,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000245",
+    "employee_id": "EMP-003686",
+    "proposed_annual_salary": 2075053.56,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000246",
+    "employee_id": "EMP-003367",
+    "proposed_annual_salary": 3884466.97,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000247",
+    "employee_id": "EMP-003474",
+    "proposed_annual_salary": 116927.53,
+    "currency_code": "GBP",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000248",
+    "employee_id": "EMP-003823",
+    "proposed_annual_salary": 1217878.59,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "REJECTED",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000249",
+    "employee_id": "EMP-003473",
+    "proposed_annual_salary": 995668.64,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "DRAFT",
+    "created_at": "2026-01-15T09:00:00"
+  },
+  {
+    "proposal_id": "ADJ-2026-000250",
+    "employee_id": "EMP-003541",
+    "proposed_annual_salary": 2497545.04,
+    "currency_code": "INR",
+    "reason": "Synthetic adjustment proposal for workflow testing",
+    "status": "SUBMITTED",
+    "created_at": "2026-01-15T09:00:00"
+  }
+]

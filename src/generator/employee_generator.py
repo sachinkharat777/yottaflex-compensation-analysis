@@ -4,11 +4,14 @@ from pathlib import Path
 import random
 import sqlite3
 
+try:
+    from .config import SEED, EMPLOYEE_COUNT, SEED_OFFSETS
+except ImportError:
+    from config import SEED, EMPLOYEE_COUNT, SEED_OFFSETS
+
+
 ROOT = Path(__file__).resolve().parents[2]
 DB_PATH = ROOT / "database" / "compensation.db"
-
-SEED = 20261022
-EMPLOYEE_COUNT = 5000
 
 
 def random_hire_date(rng):
@@ -17,35 +20,31 @@ def random_hire_date(rng):
 
     days = (end - start).days
 
-    return start + timedelta(
-        days=rng.randint(0, days)
-    )
+    return start + timedelta(days=rng.randint(0, days))
 
 
 def generate_employees(employee_count=EMPLOYEE_COUNT, seed=SEED):
 
-    rng = random.Random(seed)
+    if employee_count < 1:
+        raise ValueError("employee_count must be at least 1.")
+
+    actual_seed = seed + SEED_OFFSETS["employees"]
+    rng = random.Random(actual_seed)
 
     with sqlite3.connect(DB_PATH) as conn:
 
         conn.execute("PRAGMA foreign_keys = ON")
 
         roles = conn.execute("""
-            SELECT role_id
-            FROM Role
-            ORDER BY role_id
+            SELECT role_id FROM Role ORDER BY role_id
         """).fetchall()
 
         levels = conn.execute("""
-            SELECT level_id
-            FROM Level
-            ORDER BY seniority_rank
+            SELECT level_id FROM Level ORDER BY seniority_rank
         """).fetchall()
 
         locations = conn.execute("""
-            SELECT location_id
-            FROM Location
-            ORDER BY location_id
+            SELECT location_id FROM Location ORDER BY location_id
         """).fetchall()
 
         roles = [row[0] for row in roles]
@@ -54,8 +53,7 @@ def generate_employees(employee_count=EMPLOYEE_COUNT, seed=SEED):
 
         if not roles or not levels or not locations:
             raise RuntimeError(
-                "Master data is missing. "
-                "Run master_generator first."
+                "Master data is missing. Run master_generator first."
             )
 
         combinations = [
@@ -74,24 +72,15 @@ def generate_employees(employee_count=EMPLOYEE_COUNT, seed=SEED):
 
             hire_date = random_hire_date(rng).isoformat()
 
-            # Distribute employees evenly across all
-            # available role-level combinations.
             role_id, level_id = combinations[
                 (number - 1) % len(combinations)
             ]
 
-            # Rotate locations to distribute employees.
             location_id = locations[
                 (number - 1) % len(locations)
             ]
 
-            fte = rng.choice([
-                1.0,
-                1.0,
-                1.0,
-                0.8,
-                0.5
-            ])
+            fte = rng.choice([1.0, 1.0, 1.0, 0.8, 0.5])
 
             employees.append((
                 employee_id,
@@ -114,24 +103,15 @@ def generate_employees(employee_count=EMPLOYEE_COUNT, seed=SEED):
 
         conn.executemany("""
             INSERT OR IGNORE INTO Employee (
-                employee_id,
-                hire_date,
-                employment_status,
-                created_at
+                employee_id, hire_date, employment_status, created_at
             )
             VALUES (?, ?, ?, ?)
         """, employees)
 
         conn.executemany("""
             INSERT OR IGNORE INTO EmployeeAssignment (
-                assignment_id,
-                employee_id,
-                role_id,
-                level_id,
-                location_id,
-                fte,
-                effective_start,
-                effective_end,
+                assignment_id, employee_id, role_id, level_id,
+                location_id, fte, effective_start, effective_end,
                 change_reason
             )
             VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
@@ -141,7 +121,9 @@ def generate_employees(employee_count=EMPLOYEE_COUNT, seed=SEED):
     print(f"Employees generated: {len(employees)}")
     print(f"Assignments generated: {len(assignments)}")
     print(f"Role-level combinations: {len(combinations)}")
-    print(f"Seed used: {seed}")
+    print(f"Seed used: {actual_seed}")
+
+    return len(employees)
 
 
 if __name__ == "__main__":

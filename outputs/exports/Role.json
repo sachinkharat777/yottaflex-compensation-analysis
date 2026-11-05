@@ -1,0 +1,352 @@
+[
+  {
+    "role_id": "ROLE-001",
+    "role_name": "Data Analyst",
+    "job_family": "Data Analytics",
+    "comparable_group": "DATA_ANALYTICS",
+    "comparison_rationale": "Roles focused on business reporting, analytics and interpreting data."
+  },
+  {
+    "role_id": "ROLE-002",
+    "role_name": "BI Analyst",
+    "job_family": "Data Analytics",
+    "comparable_group": "DATA_ANALYTICS",
+    "comparison_rationale": "Roles focused on business reporting, analytics and interpreting data."
+  },
+  {
+    "role_id": "ROLE-003",
+    "role_name": "Product Analyst",
+    "job_family": "Data Analytics",
+    "comparable_group": "DATA_ANALYTICS",
+    "comparison_rationale": "Roles focused on business reporting, analytics and interpreting data."
+  },
+  {
+    "role_id": "ROLE-004",
+    "role_name": "Business Analyst",
+    "job_family": "Data Analytics",
+    "comparable_group": "DATA_ANALYTICS",
+    "comparison_rationale": "Roles focused on business reporting, analytics and interpreting data."
+  },
+  {
+    "role_id": "ROLE-005",
+    "role_name": "Reporting Analyst",
+    "job_family": "Data Analytics",
+    "comparable_group": "DATA_ANALYTICS",
+    "comparison_rationale": "Roles focused on business reporting, analytics and interpreting data."
+  },
+  {
+    "role_id": "ROLE-006",
+    "role_name": "Data Scientist",
+    "job_family": "Data Science",
+    "comparable_group": "DATA_SCIENCE",
+    "comparison_rationale": "Roles focused on statistical analysis, experimentation and predictive modeling."
+  },
+  {
+    "role_id": "ROLE-007",
+    "role_name": "Applied Scientist",
+    "job_family": "Data Science",
+    "comparable_group": "DATA_SCIENCE",
+    "comparison_rationale": "Roles focused on statistical analysis, experimentation and predictive modeling."
+  },
+  {
+    "role_id": "ROLE-008",
+    "role_name": "Decision Scientist",
+    "job_family": "Data Science",
+    "comparable_group": "DATA_SCIENCE",
+    "comparison_rationale": "Roles focused on statistical analysis, experimentation and predictive modeling."
+  },
+  {
+    "role_id": "ROLE-009",
+    "role_name": "Research Scientist",
+    "job_family": "Data Science",
+    "comparable_group": "DATA_SCIENCE",
+    "comparison_rationale": "Roles focused on statistical analysis, experimentation and predictive modeling."
+  },
+  {
+    "role_id": "ROLE-010",
+    "role_name": "Quantitative Analyst",
+    "job_family": "Data Science",
+    "comparable_group": "DATA_SCIENCE",
+    "comparison_rationale": "Roles focused on statistical analysis, experimentation and predictive modeling."
+  },
+  {
+    "role_id": "ROLE-011",
+    "role_name": "ML Engineer",
+    "job_family": "ML Engineering",
+    "comparable_group": "ML_ENGINEERING",
+    "comparison_rationale": "Roles focused on developing and deploying machine learning systems."
+  },
+  {
+    "role_id": "ROLE-012",
+    "role_name": "MLOps Engineer",
+    "job_family": "ML Engineering",
+    "comparable_group": "ML_ENGINEERING",
+    "comparison_rationale": "Roles focused on developing and deploying machine learning systems."
+  },
+  {
+    "role_id": "ROLE-013",
+    "role_name": "ML Platform Engineer",
+    "job_family": "ML Engineering",
+    "comparable_group": "ML_ENGINEERING",
+    "comparison_rationale": "Roles focused on developing and deploying machine learning systems."
+  },
+  {
+    "role_id": "ROLE-014",
+    "role_name": "Computer Vision Engineer",
+    "job_family": "ML Engineering",
+    "comparable_group": "ML_ENGINEERING",
+    "comparison_rationale": "Roles focused on developing and deploying machine learning systems."
+  },
+  {
+    "role_id": "ROLE-015",
+    "role_name": "NLP Engineer",
+    "job_family": "ML Engineering",
+    "comparable_group": "ML_ENGINEERING",
+    "comparison_rationale": "Roles focused on developing and deploying machine learning systems."
+  },
+  {
+    "role_id": "ROLE-016",
+    "role_name": "Software Engineer",
+    "job_family": "Software Engineering",
+    "comparable_group": "SOFTWARE_ENGINEERING",
+    "comparison_rationale": "Roles focused on designing, building and maintaining software."
+  },
+  {
+    "role_id": "ROLE-017",
+    "role_name": "Backend Engineer",
+    "job_family": "Software Engineering",
+    "comparable_group": "SOFTWARE_ENGINEERING",
+    "comparison_rationale": "Roles focused on designing, building and maintaining software."
+  },
+  {
+    "role_id": "ROLE-018",
+    "role_name": "Frontend Engineer",
+    "job_family": "Software Engineering",
+    "comparable_group": "SOFTWARE_ENGINEERING",
+    "comparison_rationale": "Roles focused on designing, building and maintaining software."
+  },
+  {
+    "role_id": "ROLE-019",
+    "role_name": "Full Stack Engineer",
+    "job_family": "Software Engineering",
+    "comparable_group": "SOFTWARE_ENGINEERING",
+    "comparison_rationale": "Roles focused on designing, building and maintaining software."
+  },
+  {
+    "role_id": "ROLE-020",
+    "role_name": "Mobile Engineer",
+    "job_family": "Software Engineering",
+    "comparable_group": "SOFTWARE_ENGINEERING",
+    "comparison_rationale": "Roles focused on designing, building and maintaining software."
+  },
+  {
+    "role_id": "ROLE-021",
+    "role_name": "Data Engineer",
+    "job_family": "Data Engineering",
+    "comparable_group": "DATA_ENGINEERING",
+    "comparison_rationale": "Roles focused on data pipelines, integration and data platforms."
+  },
+  {
+    "role_id": "ROLE-022",
+    "role_name": "Analytics Engineer",
+    "job_family": "Data Engineering",
+    "comparable_group": "DATA_ENGINEERING",
+    "comparison_rationale": "Roles focused on data pipelines, integration and data platforms."
+  },
+  {
+    "role_id": "ROLE-023",
+    "role_name": "ETL Developer",
+    "job_family": "Data Engineering",
+    "comparable_group": "DATA_ENGINEERING",
+    "comparison_rationale": "Roles focused on data pipelines, integration and data platforms."
+  },
+  {
+    "role_id": "ROLE-024",
+    "role_name": "Data Platform Engineer",
+    "job_family": "Data Engineering",
+    "comparable_group": "DATA_ENGINEERING",
+    "comparison_rationale": "Roles focused on data pipelines, integration and data platforms."
+  },
+  {
+    "role_id": "ROLE-025",
+    "role_name": "Big Data Engineer",
+    "job_family": "Data Engineering",
+    "comparable_group": "DATA_ENGINEERING",
+    "comparison_rationale": "Roles focused on data pipelines, integration and data platforms."
+  },
+  {
+    "role_id": "ROLE-026",
+    "role_name": "DevOps Engineer",
+    "job_family": "Cloud and DevOps",
+    "comparable_group": "CLOUD_DEVOPS",
+    "comparison_rationale": "Roles focused on infrastructure, cloud platforms and reliability."
+  },
+  {
+    "role_id": "ROLE-027",
+    "role_name": "Cloud Engineer",
+    "job_family": "Cloud and DevOps",
+    "comparable_group": "CLOUD_DEVOPS",
+    "comparison_rationale": "Roles focused on infrastructure, cloud platforms and reliability."
+  },
+  {
+    "role_id": "ROLE-028",
+    "role_name": "Site Reliability Engineer",
+    "job_family": "Cloud and DevOps",
+    "comparable_group": "CLOUD_DEVOPS",
+    "comparison_rationale": "Roles focused on infrastructure, cloud platforms and reliability."
+  },
+  {
+    "role_id": "ROLE-029",
+    "role_name": "Platform Engineer",
+    "job_family": "Cloud and DevOps",
+    "comparable_group": "CLOUD_DEVOPS",
+    "comparison_rationale": "Roles focused on infrastructure, cloud platforms and reliability."
+  },
+  {
+    "role_id": "ROLE-030",
+    "role_name": "Infrastructure Engineer",
+    "job_family": "Cloud and DevOps",
+    "comparable_group": "CLOUD_DEVOPS",
+    "comparison_rationale": "Roles focused on infrastructure, cloud platforms and reliability."
+  },
+  {
+    "role_id": "ROLE-031",
+    "role_name": "Security Analyst",
+    "job_family": "Cybersecurity",
+    "comparable_group": "CYBERSECURITY",
+    "comparison_rationale": "Roles focused on protecting systems, applications and information."
+  },
+  {
+    "role_id": "ROLE-032",
+    "role_name": "Security Engineer",
+    "job_family": "Cybersecurity",
+    "comparable_group": "CYBERSECURITY",
+    "comparison_rationale": "Roles focused on protecting systems, applications and information."
+  },
+  {
+    "role_id": "ROLE-033",
+    "role_name": "Application Security Engineer",
+    "job_family": "Cybersecurity",
+    "comparable_group": "CYBERSECURITY",
+    "comparison_rationale": "Roles focused on protecting systems, applications and information."
+  },
+  {
+    "role_id": "ROLE-034",
+    "role_name": "Threat Intelligence Analyst",
+    "job_family": "Cybersecurity",
+    "comparable_group": "CYBERSECURITY",
+    "comparison_rationale": "Roles focused on protecting systems, applications and information."
+  },
+  {
+    "role_id": "ROLE-035",
+    "role_name": "IAM Engineer",
+    "job_family": "Cybersecurity",
+    "comparable_group": "CYBERSECURITY",
+    "comparison_rationale": "Roles focused on protecting systems, applications and information."
+  },
+  {
+    "role_id": "ROLE-036",
+    "role_name": "QA Engineer",
+    "job_family": "Quality Engineering",
+    "comparable_group": "QUALITY_ENGINEERING",
+    "comparison_rationale": "Roles focused on software testing, automation and quality assurance."
+  },
+  {
+    "role_id": "ROLE-037",
+    "role_name": "Automation Engineer",
+    "job_family": "Quality Engineering",
+    "comparable_group": "QUALITY_ENGINEERING",
+    "comparison_rationale": "Roles focused on software testing, automation and quality assurance."
+  },
+  {
+    "role_id": "ROLE-038",
+    "role_name": "Software Development Engineer in Test",
+    "job_family": "Quality Engineering",
+    "comparable_group": "QUALITY_ENGINEERING",
+    "comparison_rationale": "Roles focused on software testing, automation and quality assurance."
+  },
+  {
+    "role_id": "ROLE-039",
+    "role_name": "Performance Engineer",
+    "job_family": "Quality Engineering",
+    "comparable_group": "QUALITY_ENGINEERING",
+    "comparison_rationale": "Roles focused on software testing, automation and quality assurance."
+  },
+  {
+    "role_id": "ROLE-040",
+    "role_name": "Test Analyst",
+    "job_family": "Quality Engineering",
+    "comparable_group": "QUALITY_ENGINEERING",
+    "comparison_rationale": "Roles focused on software testing, automation and quality assurance."
+  },
+  {
+    "role_id": "ROLE-041",
+    "role_name": "Product Manager",
+    "job_family": "Product and Design",
+    "comparable_group": "PRODUCT_DESIGN",
+    "comparison_rationale": "Roles focused on product strategy, user experience and product operations."
+  },
+  {
+    "role_id": "ROLE-042",
+    "role_name": "Technical Product Manager",
+    "job_family": "Product and Design",
+    "comparable_group": "PRODUCT_DESIGN",
+    "comparison_rationale": "Roles focused on product strategy, user experience and product operations."
+  },
+  {
+    "role_id": "ROLE-043",
+    "role_name": "UX Designer",
+    "job_family": "Product and Design",
+    "comparable_group": "PRODUCT_DESIGN",
+    "comparison_rationale": "Roles focused on product strategy, user experience and product operations."
+  },
+  {
+    "role_id": "ROLE-044",
+    "role_name": "UX Researcher",
+    "job_family": "Product and Design",
+    "comparable_group": "PRODUCT_DESIGN",
+    "comparison_rationale": "Roles focused on product strategy, user experience and product operations."
+  },
+  {
+    "role_id": "ROLE-045",
+    "role_name": "Product Operations Analyst",
+    "job_family": "Product and Design",
+    "comparable_group": "PRODUCT_DESIGN",
+    "comparison_rationale": "Roles focused on product strategy, user experience and product operations."
+  },
+  {
+    "role_id": "ROLE-046",
+    "role_name": "Technical Support Engineer",
+    "job_family": "IT Operations",
+    "comparable_group": "IT_OPERATIONS",
+    "comparison_rationale": "Roles focused on technical support, systems and IT infrastructure."
+  },
+  {
+    "role_id": "ROLE-047",
+    "role_name": "Systems Administrator",
+    "job_family": "IT Operations",
+    "comparable_group": "IT_OPERATIONS",
+    "comparison_rationale": "Roles focused on technical support, systems and IT infrastructure."
+  },
+  {
+    "role_id": "ROLE-048",
+    "role_name": "IT Support Analyst",
+    "job_family": "IT Operations",
+    "comparable_group": "IT_OPERATIONS",
+    "comparison_rationale": "Roles focused on technical support, systems and IT infrastructure."
+  },
+  {
+    "role_id": "ROLE-049",
+    "role_name": "Network Engineer",
+    "job_family": "IT Operations",
+    "comparable_group": "IT_OPERATIONS",
+    "comparison_rationale": "Roles focused on technical support, systems and IT infrastructure."
+  },
+  {
+    "role_id": "ROLE-050",
+    "role_name": "Database Administrator",
+    "job_family": "IT Operations",
+    "comparable_group": "IT_OPERATIONS",
+    "comparison_rationale": "Roles focused on technical support, systems and IT infrastructure."
+  }
+]

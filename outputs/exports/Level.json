@@ -1,0 +1,22 @@
+[
+  {
+    "level_id": "LEVEL-001",
+    "level_name": "Junior",
+    "seniority_rank": 1
+  },
+  {
+    "level_id": "LEVEL-002",
+    "level_name": "Mid",
+    "seniority_rank": 2
+  },
+  {
+    "level_id": "LEVEL-003",
+    "level_name": "Senior",
+    "seniority_rank": 3
+  },
+  {
+    "level_id": "LEVEL-004",
+    "level_name": "Lead",
+    "seniority_rank": 4
+  }
+]

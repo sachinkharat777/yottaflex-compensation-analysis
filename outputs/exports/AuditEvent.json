@@ -1,0 +1,3642 @@
+[
+  {
+    "audit_event_id": "AUD-ADJ-2026-000001-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000001",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000001-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000001",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000002-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000002",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000002-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000002",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000003-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000003",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000004-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000004",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000004-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000004",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000005-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000005",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000005-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000005",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000006-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000006",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000007-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000007",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000007-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000007",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000008-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000008",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000009-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000009",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000010-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000010",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000010-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000010",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000011-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000011",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000012-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000012",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000013-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000013",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000013-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000013",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000014-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000014",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000015-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000015",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000015-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000015",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000016-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000016",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000016-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000016",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000017-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000017",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000017-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000017",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000018-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000018",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000019-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000019",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000020-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000020",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000021-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000021",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000022-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000022",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000022-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000022",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000023-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000023",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000023-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000023",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000024-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000024",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000025-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000025",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000025-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000025",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000026-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000026",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000027-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000027",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000028-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000028",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000029-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000029",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000029-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000029",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000030-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000030",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000031-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000031",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000031-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000031",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000032-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000032",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000032-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000032",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000033-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000033",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000034-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000034",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000035-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000035",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000035-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000035",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000036-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000036",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000036-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000036",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000037-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000037",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000038-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000038",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000038-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000038",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000039-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000039",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000040-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000040",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000040-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000040",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000041-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000041",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000041-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000041",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000042-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000042",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000043-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000043",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000044-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000044",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000045-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000045",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000046-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000046",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000046-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000046",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000047-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000047",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000047-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000047",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000048-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000048",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000048-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000048",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000049-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000049",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000050-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000050",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000051-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000051",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000051-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000051",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000052-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000052",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000052-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000052",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000053-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000053",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000054-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000054",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000054-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000054",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000055-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000055",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000055-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000055",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000056-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000056",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000057-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000057",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000057-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000057",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000058-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000058",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000059-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000059",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000059-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000059",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000060-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000060",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000060-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000060",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000061-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000061",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000061-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000061",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000062-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000062",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000063-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000063",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000063-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000063",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000064-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000064",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000065-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000065",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000066-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000066",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000067-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000067",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000067-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000067",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000068-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000068",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000069-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000069",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000069-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000069",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000070-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000070",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000070-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000070",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000071-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000071",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000072-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000072",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000072-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000072",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000073-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000073",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000074-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000074",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000075-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000075",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000076-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000076",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000076-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000076",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000077-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000077",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000078-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000078",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000079-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000079",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000079-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000079",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000080-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000080",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000081-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000081",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000082-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000082",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000083-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000083",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000083-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000083",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000084-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000084",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000084-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000084",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000085-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000085",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000086-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000086",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000087-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000087",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000087-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000087",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000088-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000088",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000088-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000088",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000089-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000089",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000090-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000090",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000090-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000090",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000091-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000091",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000091-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000091",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000092-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000092",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000093-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000093",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000093-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000093",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000094-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000094",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000095-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000095",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000096-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000096",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000097-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000097",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000097-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000097",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000098-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000098",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000099-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000099",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000100-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000100",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000100-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000100",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000101-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000101",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000102-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000102",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000103-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000103",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000103-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000103",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000104-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000104",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000104-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000104",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000105-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000105",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000105-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000105",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000106-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000106",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000107-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000107",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000108-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000108",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000108-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000108",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000109-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000109",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000110-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000110",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000111-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000111",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000112-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000112",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000113-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000113",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000114-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000114",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000115-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000115",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000115-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000115",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000116-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000116",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000117-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000117",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000118-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000118",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000118-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000118",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000119-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000119",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000120-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000120",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000121-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000121",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000121-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000121",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000122-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000122",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000123-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000123",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000123-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000123",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000124-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000124",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000125-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000125",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000125-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000125",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000126-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000126",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000127-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000127",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000128-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000128",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000128-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000128",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000129-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000129",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000129-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000129",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000130-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000130",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000130-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000130",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000131-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000131",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000131-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000131",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000132-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000132",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000132-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000132",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000133-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000133",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000134-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000134",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000134-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000134",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000135-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000135",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000136-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000136",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000137-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000137",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000138-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000138",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000138-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000138",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000139-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000139",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000140-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000140",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000140-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000140",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000141-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000141",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000141-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000141",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000142-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000142",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000143-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000143",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000143-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000143",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000144-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000144",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000145-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000145",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000146-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000146",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000146-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000146",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000147-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000147",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000148-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000148",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000148-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000148",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000149-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000149",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000149-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000149",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000150-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000150",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000150-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000150",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000151-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000151",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000152-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000152",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000152-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000152",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000153-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000153",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000154-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000154",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000155-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000155",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000155-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000155",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000156-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000156",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000157-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000157",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000158-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000158",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000159-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000159",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000160-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000160",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000161-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000161",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000162-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000162",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000162-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000162",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000163-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000163",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000163-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000163",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000164-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000164",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000165-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000165",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000165-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000165",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000166-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000166",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000166-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000166",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000167-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000167",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000168-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000168",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000169-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000169",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000170-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000170",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000171-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000171",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000171-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000171",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000172-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000172",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000172-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000172",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000173-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000173",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000174-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000174",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000175-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000175",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000176-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000176",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000177-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000177",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000178-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000178",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000179-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000179",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000179-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000179",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000180-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000180",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000181-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000181",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000182-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000182",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000182-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000182",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000183-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000183",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000184-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000184",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000185-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000185",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000186-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000186",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000187-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000187",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000188-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000188",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000188-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000188",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000189-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000189",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000190-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000190",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000190-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000190",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000191-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000191",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000192-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000192",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000192-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000192",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000193-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000193",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000194-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000194",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000194-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000194",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000195-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000195",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000195-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000195",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000196-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000196",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000197-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000197",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000197-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000197",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000198-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000198",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000199-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000199",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000199-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000199",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000200-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000200",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000201-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000201",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000201-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000201",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000202-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000202",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000202-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000202",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000203-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000203",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000203-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000203",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000204-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000204",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000204-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000204",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000205-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000205",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000205-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000205",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000206-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000206",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000206-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000206",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000207-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000207",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000208-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000208",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000209-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000209",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000210-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000210",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000210-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000210",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000211-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000211",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000212-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000212",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000212-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000212",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000213-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000213",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000214-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000214",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000215-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000215",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000215-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000215",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000216-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000216",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000216-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000216",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000217-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000217",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000217-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000217",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000218-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000218",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000219-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000219",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000219-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000219",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000220-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000220",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000221-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000221",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000221-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000221",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000222-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000222",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000223-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000223",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000223-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000223",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000224-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000224",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000224-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000224",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000225-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000225",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000226-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000226",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000227-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000227",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000227-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000227",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000228-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000228",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000229-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000229",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000229-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000229",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000230-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000230",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000230-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000230",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000231-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000231",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000231-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000231",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000232-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000232",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000233-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000233",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000233-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000233",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000234-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000234",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000234-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000234",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000235-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000235",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000236-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000236",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000237-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000237",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000238-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000238",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000238-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000238",
+    "action": "PROPOSAL_APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000239-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000239",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000239-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000239",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000240-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000240",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000241-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000241",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000242-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000242",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000243-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000243",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000244-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000244",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000245-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000245",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000246-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000246",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000247-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000247",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000248-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000248",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000248-002",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000248",
+    "action": "PROPOSAL_REJECTED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"REJECTED\"}",
+    "actor": "APPROVER-001",
+    "event_timestamp": "2026-01-16T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000249-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000249",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000250-001",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000250",
+    "action": "PROPOSAL_CREATED",
+    "old_values": null,
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "SYSTEM-GENERATOR",
+    "event_timestamp": "2026-01-15T09:00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000044-SUBMIT",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000044",
+    "action": "SUBMITTED",
+    "old_values": "{\"status\": \"DRAFT\"}",
+    "new_values": "{\"status\": \"SUBMITTED\"}",
+    "actor": "TEST-SUBMITER",
+    "event_timestamp": "2026-11-05T04:16:04.251130+00:00"
+  },
+  {
+    "audit_event_id": "AUD-ADJ-2026-000044-DECISION",
+    "entity_type": "AdjustmentProposal",
+    "entity_id": "ADJ-2026-000044",
+    "action": "APPROVED",
+    "old_values": "{\"status\": \"SUBMITTED\"}",
+    "new_values": "{\"status\": \"APPROVED\"}",
+    "actor": "TEST-MANGER",
+    "event_timestamp": "2026-11-05T04:17:29.434351+00:00"
+  }
+]
