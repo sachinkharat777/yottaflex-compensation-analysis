@@ -1,0 +1,271 @@
+entity_id,as_of_date,band_effective_end,annual_base_salary,fte,reported_normalized_salary,currency_code,fx_rate_present,proposal_status,adjustment_applied,approval_event_present,comparable_group,role_count_in_group,comparison_rationale
+ANOM-1-001,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-002,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-003,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-004,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-005,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-006,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-007,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-008,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-009,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-010,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-011,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-012,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-013,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-014,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-015,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-016,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-017,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-018,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-019,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-020,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-021,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-022,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-023,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-024,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-025,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-026,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-027,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-028,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-029,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-030,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-031,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-032,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-033,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-034,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-035,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-036,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-037,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-038,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-039,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-040,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-041,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-042,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-043,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-044,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-045,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-046,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-047,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-048,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-049,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-1-050,2026-12-31,2026-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-001,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-002,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-003,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-004,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-005,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-006,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-007,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-008,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-009,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-010,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-011,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-012,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-013,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-014,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-015,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-016,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-017,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-018,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-019,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-020,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-021,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-022,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-023,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-024,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-025,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-026,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-027,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-028,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-029,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-030,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-031,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-032,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-033,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-034,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-035,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-036,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-037,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-038,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-039,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-040,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-041,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-042,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-043,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-044,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-045,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-046,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-047,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-048,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-049,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-2-050,2026-12-31,2027-01-01,80000.0,0.5,80000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-001,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-002,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-003,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-004,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-005,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-006,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-007,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-008,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-009,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-010,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-011,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-012,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-013,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-014,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-015,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-016,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-017,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-018,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-019,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-020,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-021,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-022,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-023,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-024,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-025,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-026,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-027,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-028,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-029,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-030,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-031,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-032,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-033,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-034,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-035,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-036,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-037,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-038,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-039,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-040,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-041,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-042,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-043,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-044,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-045,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-046,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-047,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-048,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-049,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-3-050,2026-12-31,2027-01-01,80000.0,0.8,100000.0,GBP,False,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-001,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-002,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-003,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-004,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-005,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-006,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-007,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-008,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-009,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-010,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-011,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-012,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-013,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-014,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-015,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-016,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-017,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-018,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-019,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-020,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-021,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-022,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-023,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-024,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-025,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-026,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-027,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-028,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-029,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-030,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-031,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-032,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-033,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-034,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-035,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-036,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-037,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-038,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-039,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-040,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-041,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-042,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-043,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-044,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-045,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-046,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-047,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-048,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-049,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-4-050,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,APPROVED,True,False,CG-01,1,Roles share similar responsibilities and skills
+ANOM-5-001,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-002,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-003,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-004,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-005,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-006,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-007,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-008,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-009,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-010,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-011,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-012,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-013,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-014,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-015,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-016,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-017,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-018,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-019,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-020,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-021,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-022,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-023,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-024,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-025,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-026,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-027,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-028,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-029,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-030,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-031,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-032,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-033,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-034,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-035,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-036,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-037,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-038,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-039,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-040,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-041,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-042,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-043,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-044,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-045,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-046,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-047,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-048,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-049,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+ANOM-5-050,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,3,
+CLEAN-001,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+CLEAN-002,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+CLEAN-003,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+CLEAN-004,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+CLEAN-005,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+CLEAN-006,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+CLEAN-007,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+CLEAN-008,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+CLEAN-009,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+CLEAN-010,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+CLEAN-011,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+CLEAN-012,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+CLEAN-013,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+CLEAN-014,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+CLEAN-015,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+CLEAN-016,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+CLEAN-017,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+CLEAN-018,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+CLEAN-019,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills
+CLEAN-020,2026-12-31,2027-01-01,80000.0,0.8,100000.0,INR,True,DRAFT,False,False,CG-01,1,Roles share similar responsibilities and skills

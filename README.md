@@ -19,17 +19,20 @@ The project uses synthetic employee and compensation data and provides a Streaml
 9. [Compensation Analysis](#compensation-analysis)
 10. [Disparity Detection](#disparity-detection)
 11. [Evidence-Based Review](#evidence-based-review)
-12. [Adjustment Proposal Workflow](#adjustment-proposal-workflow)
-13. [Streamlit Dashboard](#streamlit-dashboard)
-14. [Project Structure](#project-structure)
-15. [Installation and Setup](#installation-and-setup)
-16. [Running the Project](#running-the-project)
-17. [Generated Reports](#generated-reports)
-18. [Validation and Testing](#validation-and-testing)
-19. [Design Decisions and Assumptions](#design-decisions-and-assumptions)
-20. [Limitations and Future Improvements](#limitations-and-future-improvements)
-21. [AI Usage and Transparency](#ai-usage-and-transparency)
-22. [Submission Notes](#submission-notes)
+12. [Employee Comparison](#employee-comparison)
+13. [Adjustment Proposal Workflow](#adjustment-proposal-workflow)
+14. [Anomaly Detection Evaluation](#anomaly-detection-evaluation)
+15. [Streamlit Dashboard](#streamlit-dashboard)
+16. [Project Structure](#project-structure)
+17. [Installation and Setup](#installation-and-setup)
+18. [Running the Project](#running-the-project)
+19. [Generated Reports](#generated-reports)
+20. [Validation and Testing](#validation-and-testing)
+21. [Design Decisions and Assumptions](#design-decisions-and-assumptions)
+22. [Limitations and Future Improvements](#limitations-and-future-improvements)
+23. [AI Usage and Transparency](#ai-usage-and-transparency)
+24. [Security and Repository Hygiene](#security-and-repository-hygiene)
+25. [Submission Notes](#submission-notes)
 
 ---
 
@@ -50,6 +53,7 @@ The system:
 - Considers performance evidence and employee tenure during review analysis.
 - Generates adjustment proposals for eligible review cases.
 - Tracks proposal submission, approval, rejection, and audit events.
+- Evaluates five additional anomaly detection rules using a controlled synthetic benchmark.
 - Presents results through an interactive Streamlit dashboard.
 
 **Important:** The system is a decision-support tool. Its flags identify cases for investigation; they do not establish discrimination, unfair treatment, or an incorrect salary.
@@ -77,17 +81,18 @@ The objective of this project is to build a reproducible analytical workflow tha
 ## Project Objectives
 
 1. Build a relational compensation database with appropriate relationships and integrity constraints.
-2. Generate realistic, reproducible synthetic workforce and compensation data.
+2. Generate reproducible synthetic workforce and compensation data.
 3. Maintain historical employee assignments and salary records.
 4. Normalize salary values using employee FTE.
 5. Convert salary values into INR for consistent comparison.
 6. Calculate compensation ratios and salary-band positions.
-7. Identify potential compensation anomalies using configurable rules.
+7. Identify potential compensation anomalies using defined rules.
 8. Incorporate performance and tenure evidence into review analysis.
 9. Generate compensation adjustment proposals.
 10. Maintain approval and audit histories.
 11. Build an interactive dashboard for reviewing results.
-12. Validate the database, analytical outputs, and important workflow behavior.
+12. Evaluate anomaly detection rules using ground-truth labels and standard classification metrics.
+13. Validate the database, analytical outputs, and important workflow behavior.
 
 ---
 
@@ -106,8 +111,10 @@ The objective of this project is to build a reproducible analytical workflow tha
 | Proposal management | Creates and tracks compensation adjustment proposals |
 | Approval workflow | Supports submission, approval, and rejection |
 | Audit history | Records proposal-related workflow events |
+| Anomaly benchmark | Generates controlled anomaly scenarios with separate ground truth |
+| Evaluation metrics | Calculates precision, recall, and F1-score |
 | Interactive dashboard | Displays metrics, visualizations, filters, and employee-level details |
-| CSV reports | Exports analytical results for further inspection |
+| CSV and JSON outputs | Exports analytical results and evaluation metrics |
 | Automated tests | Tests important calculations, integrity conditions, and workflow behavior |
 
 ---
@@ -122,17 +129,18 @@ The objective of this project is to build a reproducible analytical workflow tha
 | NumPy | Numerical operations |
 | Streamlit | Interactive dashboard |
 | Plotly | Interactive data visualizations |
-| CSV | Analytical report generation |
+| CSV | Analytical report and benchmark data storage |
+| JSON | Evaluation metrics storage |
 | Pytest | Automated testing |
 | Git and GitHub | Version control and project hosting |
 
-The project uses local and free technologies. It does not require a paid cloud service or hosted database.
+The project uses local technologies and does not require a paid cloud service or hosted database.
 
 ---
 
 ## System Architecture
 
-The project follows a modular architecture that separates data generation, database storage, analysis, validation, workflow management, and dashboard presentation.
+The project follows a modular architecture that separates data generation, database storage, analysis, validation, workflow management, evaluation, and dashboard presentation.
 
 ### High-Level Workflow
 
@@ -155,10 +163,10 @@ Synthetic Data Generation
    Evidence-Based Review
           |
           v
-  Employee Comparison
+    Employee Comparison
           |
           v
-     CSV Reports
+       CSV Reports
           |
           v
    Streamlit Dashboard
@@ -167,11 +175,41 @@ Synthetic Data Generation
  Adjustment Proposal Workflow
           |
           v
- Approval / Rejection
+   Approval / Rejection
           |
           v
  Approval and Audit Records
 ```
+
+### Anomaly Evaluation Workflow
+
+```text
+Synthetic Anomaly Generation
+          |
+          v
+   Generated Test Cases
+          |
+          +--------------------+
+          |                    |
+          v                    v
+   Detection Rules        Ground Truth
+          |                    |
+          v                    |
+    Predictions               |
+          |                    |
+          +---------+----------+
+                    |
+                    v
+             Evaluation
+                    |
+                    v
+       Precision / Recall / F1
+                    |
+                    v
+         JSON Metrics Report
+```
+
+The evaluation pipeline is separate from the main compensation database. It does not modify the existing compensation database or use ground-truth labels while generating detector predictions.
 
 ### Main Components
 
@@ -195,7 +233,11 @@ Checks database integrity and business rules before analytical results are accep
 
 Manages adjustment proposal creation, submission, approval, rejection, and audit records.
 
-**6. Presentation Layer**
+**6. Evaluation Layer**
+
+Runs rule-based anomaly detection against generated benchmark cases and compares predictions with independently generated ground-truth labels.
+
+**7. Presentation Layer**
 
 Uses Streamlit and Plotly to display analytical results and provide an interface for proposal management.
 
@@ -242,14 +284,13 @@ This structure supports historical analysis and traceability rather than relying
 
 The project uses deterministic synthetic data rather than real employee information.
 
-The generated dataset includes:
+The generated main dataset includes:
 
 | Data Category | Generated Volume |
 |---|---:|
 | Roles | 50 |
 | Levels | 4 |
 | Locations | 3 |
-| Role-level-location combinations | 600 possible combinations |
 | Compensation bands | 1,800 |
 | Employees | 5,000 |
 | Promotions | 500 |
@@ -260,9 +301,9 @@ The generated dataset includes:
 
 The dataset includes compensation and salary history covering 2024, 2025, and 2026.
 
-A fixed random seed is used by the generators to make synthetic data generation reproducible.
+A fixed random seed is used by the generators to support repeatable synthetic data generation.
 
-**Note:** The figures describe the generated project dataset, not a real organization's workforce.
+**Note:** These figures describe the generated project dataset, not a real organization's workforce.
 
 ---
 
@@ -277,8 +318,7 @@ Employees may work full-time or part-time. Comparing their actual annual salary 
 The project normalizes salary to a full-time-equivalent basis:
 
 \[
-\text{Normalized Salary}
-=
+\text{Normalized Salary} =
 \frac{\text{Actual Annual Salary}}{\text{FTE}}
 \]
 
@@ -289,8 +329,7 @@ For example, an employee earning ₹600,000 at 0.5 FTE has a normalized salary o
 Compensation values are converted into INR using the applicable stored currency conversion rate.
 
 \[
-\text{Salary in INR}
-=
+\text{Salary in INR} =
 \text{Salary in Source Currency}
 \times
 \text{Currency Rate}
@@ -303,8 +342,7 @@ This allows salary and compensation-band comparisons to use a common currency.
 Compa-ratio measures normalized employee compensation relative to the midpoint of the applicable compensation band.
 
 \[
-\text{Compa-Ratio}
-=
+\text{Compa-Ratio} =
 \frac{\text{Normalized Salary}}
 {\text{Compensation Band Midpoint}}
 \]
@@ -378,7 +416,7 @@ The latest available performance evidence is used when selecting an employee's e
 
 The purpose is to provide additional context for human review rather than automatically determine an employee's eligibility for a salary increase.
 
-The output is saved as:
+Output:
 
 `outputs/evidence_based_review.csv`
 
@@ -402,7 +440,7 @@ The analysis provides a descriptive view of compensation variation.
 
 A difference from the group average or median should not be interpreted as proof of unfair treatment. Additional business context may be needed, including responsibilities, experience, performance, and other relevant factors.
 
-The output is saved as:
+Output:
 
 `outputs/employee_comparison.csv`
 
@@ -460,6 +498,114 @@ The workflow stores approval events and audit events to maintain a history of pr
 
 ---
 
+## Anomaly Detection Evaluation
+
+A separate synthetic benchmark evaluates five compensation-related anomaly detection rules.
+
+The benchmark is designed to test whether the implemented rules correctly identify deliberately constructed anomaly scenarios.
+
+### Anomaly Types
+
+| Issue Type | Description |
+|---|---|
+| `EXPIRED_COMPENSATION_BAND` | Salary analysis uses a compensation band that has expired |
+| `FTE_NORMALIZATION_ERROR` | Salary is reported without correct FTE normalization |
+| `MISSING_FX_RATE` | A required foreign exchange conversion rate is unavailable |
+| `UNAPPROVED_ADJUSTMENT` | An adjustment is marked approved without a corresponding approval event |
+| `INCOMPARABLE_ROLE_GROUPING` | Multiple roles are grouped together without a comparison rationale |
+
+### Benchmark Dataset
+
+| Dataset Detail | Count |
+|---|---:|
+| Total benchmark records | 270 |
+| Injected anomaly cases | 250 |
+| Clean control cases | 20 |
+| Anomaly types | 5 |
+| Positive cases per anomaly type | 50 |
+
+The benchmark generator creates the test cases and a separate ground-truth CSV.
+
+The detection module reads the generated cases and produces predictions. It does not read the ground-truth labels.
+
+The evaluation module compares the predictions against ground truth.
+
+### Evaluation Metrics
+
+The following classification metrics are calculated:
+
+**Precision**
+
+\[
+\text{Precision} = \frac{TP}{TP+FP}
+\]
+
+Measures the proportion of predicted anomalies that are actual labelled anomalies.
+
+**Recall**
+
+\[
+\text{Recall} = \frac{TP}{TP+FN}
+\]
+
+Measures the proportion of actual labelled anomalies detected by the rules.
+
+**F1-score**
+
+\[
+F1 = 2 \times \frac{\text{Precision}\times\text{Recall}}
+{\text{Precision}+\text{Recall}}
+\]
+
+Measures the harmonic mean of precision and recall.
+
+### Evaluation Results
+
+The controlled benchmark produced the following results:
+
+| Metric | Result |
+|---|---:|
+| True Positives | 250 |
+| False Positives | 0 |
+| False Negatives | 0 |
+| Precision | 100% |
+| Recall | 100% |
+| F1-score | 100% |
+
+Each of the five anomaly types achieved:
+
+| Metric | Result per anomaly type |
+|---|---:|
+| True Positives | 50 |
+| False Positives | 0 |
+| False Negatives | 0 |
+| Precision | 100% |
+| Recall | 100% |
+| F1-score | 100% |
+
+### Evaluation Files
+
+| File | Responsibility |
+|---|---|
+| `src/generator/anomaly_injector.py` | Generates controlled anomaly scenarios |
+| `src/evaluation/detector.py` | Applies detection rules to generated cases |
+| `src/evaluation/evaluate.py` | Calculates evaluation metrics |
+| `data/generated/anomaly_cases.csv` | Contains generated benchmark records |
+| `data/ground_truth/ground_truth.csv` | Contains independent ground-truth labels |
+| `outputs/evaluation_predictions.csv` | Contains detector predictions |
+| `outputs/evaluation_metrics.json` | Stores evaluation results |
+| `docs/evaluation.md` | Documents the evaluation methodology and limitations |
+
+### Important Evaluation Limitation
+
+The 100% results apply only to the controlled synthetic benchmark. The cases were deliberately constructed to test specific detection rules.
+
+They do not establish 100% accuracy on real-world compensation data or demonstrate generalization to unseen organizational data.
+
+Independent validation using manually reviewed real-world or independently sourced benchmark records would be required to assess real-world detection performance.
+
+---
+
 ## Streamlit Dashboard
 
 The project includes a Streamlit dashboard for exploring compensation analysis results.
@@ -502,7 +648,9 @@ yottaflex-compensation-analysis/
 │
 ├── data/
 │   ├── generated/
+│   │   └── anomaly_cases.csv
 │   └── ground_truth/
+│       └── ground_truth.csv
 │
 ├── database/
 │   ├── schema.sql
@@ -511,24 +659,32 @@ yottaflex-compensation-analysis/
 ├── docs/
 │   ├── architecture.md
 │   ├── assumptions.md
-│   └── data_dictionary.md
+│   ├── data_dictionary.md
+│   └── evaluation.md
 │
 ├── outputs/
 │   ├── compensation_analysis_2026-12-31.csv
 │   ├── disparity_flags.csv
 │   ├── evidence_based_review.csv
-│   └── employee_comparison.csv
+│   ├── employee_comparison.csv
+│   ├── evaluation_predictions.csv
+│   └── evaluation_metrics.json
 │
 ├── prompts/
 │   └── prompt_history.md
 │
 ├── src/
 │   ├── analysis/
+│   ├── evaluation/
 │   ├── generator/
 │   ├── validation/
 │   └── workflow/
 │
 ├── tests/
+│   ├── test_analysis.py
+│   ├── test_database_integrity.py
+│   ├── test_evaluation.py
+│   └── test_workflow.py
 │
 ├── .gitignore
 ├── README.md
@@ -545,11 +701,15 @@ yottaflex-compensation-analysis/
 | `rebuild_database.py` | Rebuilds the database and regenerates synthetic data |
 | `database/schema.sql` | Defines database tables and constraints |
 | `app/dashboard.py` | Runs the Streamlit dashboard |
+| `src/evaluation/detector.py` | Detects the five benchmark anomaly types |
+| `src/evaluation/evaluate.py` | Calculates precision, recall, and F1-score |
+| `src/generator/anomaly_injector.py` | Generates controlled synthetic anomaly scenarios |
 | `requirements.txt` | Lists Python dependencies |
 | `docs/architecture.md` | Describes system architecture |
 | `docs/assumptions.md` | Documents project assumptions |
 | `docs/data_dictionary.md` | Describes database fields and data |
-| `prompts/prompt_history.md` | Records AI prompts used during development |
+| `docs/evaluation.md` | Documents evaluation methodology and limitations |
+| `prompts/prompt_history.md` | Records AI-assisted development prompts |
 
 ---
 
@@ -557,25 +717,21 @@ yottaflex-compensation-analysis/
 
 ### Prerequisites
 
-Install the following:
-
 - Python 3.11 or later
 - Git
 - Windows Command Prompt or another compatible terminal
 
 ### 1. Clone the Repository
 
-```bash
+```cmd
 git clone https://github.com/sachinkharat777/yottaflex-compensation-analysis.git
 cd yottaflex-compensation-analysis
 ```
 
-Replace the placeholder with the actual public GitHub repository URL.
-
 ### 2. Create a Virtual Environment
 
-```bash
-python -m venv venv
+```cmd
+py -3.11 -m venv venv
 ```
 
 ### 3. Activate the Virtual Environment
@@ -594,14 +750,14 @@ source venv/bin/activate
 
 ### 4. Install Dependencies
 
-```bash
+```cmd
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 ```
 
 ### Dependencies
 
-The project uses the following packages:
+The project uses:
 
 - pandas
 - numpy
@@ -619,7 +775,7 @@ Run commands from the project root directory with the virtual environment activa
 
 ### Step 1: Run the Analysis Workflow
 
-```bash
+```cmd
 python run.py
 ```
 
@@ -629,7 +785,7 @@ The existing database is used. This command is intended to analyze the current d
 
 ### Step 2: Launch the Dashboard
 
-```bash
+```cmd
 streamlit run app/dashboard.py
 ```
 
@@ -641,23 +797,56 @@ On Windows Command Prompt, this command also works:
 streamlit run app\dashboard.py
 ```
 
-### Step 3: Run Automated Tests
+### Step 3: Generate the Anomaly Benchmark
 
-```bash
-pytest -v
+```cmd
+python -m src.generator.anomaly_injector
 ```
 
-The tests verify important calculations, database integrity, business rules, and workflow behavior.
+This generates:
 
-### Important: Rebuilding the Database
+- `data/generated/anomaly_cases.csv`
+- `data/ground_truth/ground_truth.csv`
+
+The benchmark is separate from the main compensation database.
+
+### Step 4: Run Anomaly Detection
+
+```cmd
+python -m src.evaluation.detector
+```
+
+This generates:
+
+`outputs/evaluation_predictions.csv`
+
+### Step 5: Evaluate Detection Performance
+
+```cmd
+python -m src.evaluation.evaluate
+```
+
+This compares predictions with ground truth and generates:
+
+`outputs/evaluation_metrics.json`
+
+### Step 6: Run Automated Tests
+
+```cmd
+python -m pytest -v
+```
+
+The tests verify important calculations, database integrity, business rules, evaluation metrics, and workflow behavior.
+
+### Important: Rebuilding the Main Database
 
 To regenerate the synthetic database, use:
 
-```bash
+```cmd
 python rebuild_database.py
 ```
 
-This operation rebuilds the database and may replace existing proposal and approval state. Run it only when a fresh dataset is required.
+**Warning:** This operation rebuilds the database and may replace existing proposal and approval state. Run it only when a fresh dataset is required.
 
 It should not be used as a routine substitute for `python run.py`.
 
@@ -665,14 +854,21 @@ It should not be used as a routine substitute for `python run.py`.
 
 ## Generated Reports
 
-The analysis workflow generates four CSV reports in the `outputs/` directory.
+The main analysis workflow generates four CSV reports in the `outputs/` directory.
 
 | Report | Description |
 |---|---|
 | `compensation_analysis_2026-12-31.csv` | Employee-level normalized compensation, band information, and compa-ratio |
-| `disparity_flags.csv` | Employees identified by the configured disparity screening rules |
+| `disparity_flags.csv` | Employees identified by configured disparity screening rules |
 | `evidence_based_review.csv` | Review candidates with additional employee evidence and comparable-group context |
 | `employee_comparison.csv` | Employee-level comparison metrics and descriptive group statistics |
+
+The anomaly evaluation workflow generates:
+
+| Report | Description |
+|---|---|
+| `evaluation_predictions.csv` | Anomaly predictions from the detection rules |
+| `evaluation_metrics.json` | Overall and per-issue evaluation metrics |
 
 These reports can be opened in spreadsheet applications or processed using Python.
 
@@ -707,6 +903,8 @@ The project includes Pytest tests covering:
 - Assignment and compensation-band constraints
 - Currency conversion
 - Analytical logic
+- Evaluation metric calculations
+- False-positive and false-negative scenarios
 - Proposal status transitions
 - Approval and audit records
 
@@ -716,7 +914,7 @@ During development, the following results were obtained:
 
 | Verification | Result |
 |---|---:|
-| Automated tests | 16 passed |
+| Automated tests | 20 passed |
 | Database validation checks | 11 of 11 passed |
 | Employees processed by compensation analysis | 5,000 |
 | Disparity screening candidates | 1,292 |
@@ -724,7 +922,22 @@ During development, the following results were obtained:
 | Employee comparison records | 5,000 |
 | Comparable employee groups | 120 |
 
-These are results from the generated development dataset and the tested project state. They may change if the data or rules are modified.
+### Anomaly Benchmark Results
+
+| Verification | Result |
+|---|---:|
+| Total benchmark records | 270 |
+| Injected anomaly cases | 250 |
+| Clean control cases | 20 |
+| Anomaly types evaluated | 5 |
+| True positives | 250 |
+| False positives | 0 |
+| False negatives | 0 |
+| Precision | 100% |
+| Recall | 100% |
+| F1-score | 100% |
+
+These results describe the tested project state and controlled synthetic benchmark. They may change if the data or rules are modified.
 
 The number of flagged employees represents review candidates, not confirmed compensation problems.
 
@@ -738,7 +951,7 @@ Synthetic data is used to demonstrate the system without exposing real employee 
 
 ### 2. Reproducible Generation
 
-A fixed random seed is used in the data generation process to support repeatable results.
+Fixed random seeds are used in the data generation process to support repeatable results.
 
 ### 3. Relational Database
 
@@ -766,11 +979,16 @@ This approach is transparent and easier to inspect than an unexplained automated
 
 The system identifies records for review and supports proposal decisions. It does not independently make final compensation decisions.
 
+### 9. Separate Evaluation Benchmark
+
+The anomaly evaluation dataset is separate from the main compensation database. This allows controlled testing without modifying the primary analytical dataset.
+
 Further assumptions and implementation details are documented in:
 
 - `docs/assumptions.md`
 - `docs/architecture.md`
 - `docs/data_dictionary.md`
+- `docs/evaluation.md`
 
 ---
 
@@ -785,6 +1003,7 @@ Further assumptions and implementation details are documented in:
 - Performance and tenure are supporting context, not a complete measure of employee contribution.
 - Currency comparisons depend on the conversion rates stored in the database.
 - Proposal approval does not automatically update employee salary records.
+- The anomaly evaluation uses controlled synthetic cases and does not establish real-world detection accuracy.
 - The application is designed for local execution and has not been presented as a production HR system.
 - The analysis does not establish legal compliance or replace a formal compensation audit.
 
@@ -799,7 +1018,8 @@ Further assumptions and implementation details are documented in:
 - Add stronger audit-event serialization and reporting.
 - Add explicit data import and validation for real-world datasets.
 - Add reproducible report metadata and run timestamps.
-- Add expanded integration and end-to-end tests.
+- Expand integration and end-to-end tests.
+- Evaluate detection rules on independently reviewed datasets.
 - Introduce a separate controlled salary-update process after approval.
 
 ---
@@ -816,6 +1036,7 @@ AI assistance included support with:
 - Reviewing analytical logic and edge cases.
 - Improving database validation and workflow handling.
 - Preparing documentation and execution instructions.
+- Developing and testing the anomaly evaluation workflow.
 
 AI-generated suggestions were not treated as automatically correct. Code and analytical behavior were reviewed, modified where necessary, and tested through direct execution, database checks, generated report inspection, and automated tests.
 
@@ -823,7 +1044,7 @@ The prompt history is maintained separately in:
 
 `prompts/prompt_history.md`
 
-The repository should include the prompts submitted to the AI tools used during development, as required by the submission guidelines. Responses do not need to be included unless useful for explaining a decision.
+The prompt history should accurately represent the prompts submitted to AI tools during development. It should not present reconstructed summaries as verbatim prompts.
 
 The candidate remains responsible for understanding the implementation, its design choices, and its limitations.
 
@@ -855,11 +1076,13 @@ A reviewer should be able to:
 3. Run the analysis workflow.
 4. Inspect the generated CSV reports.
 5. Launch the Streamlit dashboard.
-6. Run the automated tests.
-7. Review the database schema and supporting documentation.
-8. Understand the assumptions, limitations, and AI-assisted development process.
+6. Generate the anomaly benchmark.
+7. Run the anomaly detection and evaluation workflow.
+8. Run the automated tests.
+9. Review the database schema and supporting documentation.
+10. Understand the assumptions, limitations, and AI-assisted development process.
 
-The project is intended to demonstrate structured problem-solving, data engineering, analytical reasoning, validation, and transparent development practices.
+The project is intended to demonstrate structured problem-solving, data engineering, analytical reasoning, validation, anomaly detection, and transparent development practices.
 
 ---
 
@@ -870,60 +1093,3 @@ The project is intended to demonstrate structured problem-solving, data engineer
 Project: YottaFlex Compensation Analysis
 
 GitHub: https://github.com/sachinkharat777
-
----
-
-
-
-<!-- ------------------------------------------------------------------------------------------------------------------------------------- -->
-
-<!-- # YottaFlex Compensation Analysis
-
-A local synthetic-data project for employee compensation analysis, disparity screening, evidence-based review, and adjustment proposal management.
-
-## Requirements
-
-- Python 3.11 or later
-- Windows Command Prompt
-- Git
-
-## Setup
-
-```cmd
-python -m venv venv
-venv\Scripts\activate
-python -m pip install -r requirements.txt
-```
-
-## Run Analysis
-
-```cmd
-python run.py
-```
-
-Generated reports are saved in the outputs directory:
-
-- compensation_analysis_2026-12-31.csv
-- disparity_flags.csv
-- evidence_based_review.csv
-- employee_comparison.csv
-
-## Run Dashboard
-
-```cmd
-streamlit run app\dashboard.py
-```
-
-## Run Tests
-
-```cmd
-pytest -v
-```
-
-## Important Notes
-
-- The database is stored in database/compensation.db.
-- The dataset is synthetic.
-- Disparity flags are screening results, not proof of unfair treatment.
-- Dashboard proposal actions modify the database.
-- Approval changes proposal status but does not automatically change employee salary. -->

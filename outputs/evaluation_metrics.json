@@ -1,0 +1,55 @@
+{
+    "evaluation_type": "Controlled synthetic anomaly benchmark",
+    "ground_truth_cases": 250,
+    "predicted_cases": 250,
+    "overall": {
+        "true_positives": 250,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+    },
+    "per_issue_type": {
+        "EXPIRED_COMPENSATION_BAND": {
+            "true_positives": 50,
+            "false_positives": 0,
+            "false_negatives": 0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1_score": 1.0
+        },
+        "FTE_NORMALIZATION_ERROR": {
+            "true_positives": 50,
+            "false_positives": 0,
+            "false_negatives": 0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1_score": 1.0
+        },
+        "INCOMPARABLE_ROLE_GROUPING": {
+            "true_positives": 50,
+            "false_positives": 0,
+            "false_negatives": 0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1_score": 1.0
+        },
+        "MISSING_FX_RATE": {
+            "true_positives": 50,
+            "false_positives": 0,
+            "false_negatives": 0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1_score": 1.0
+        },
+        "UNAPPROVED_ADJUSTMENT": {
+            "true_positives": 50,
+            "false_positives": 0,
+            "false_negatives": 0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1_score": 1.0
+        }
+    }
+}

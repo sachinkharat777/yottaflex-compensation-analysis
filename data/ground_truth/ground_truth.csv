@@ -1,0 +1,251 @@
+entity_id,issue_type,rule_violated,expected_decision
+ANOM-1-001,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-002,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-003,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-004,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-005,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-006,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-007,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-008,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-009,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-010,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-011,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-012,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-013,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-014,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-015,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-016,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-017,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-018,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-019,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-020,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-021,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-022,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-023,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-024,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-025,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-026,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-027,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-028,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-029,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-030,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-031,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-032,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-033,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-034,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-035,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-036,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-037,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-038,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-039,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-040,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-041,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-042,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-043,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-044,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-045,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-046,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-047,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-048,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-049,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-1-050,EXPIRED_COMPENSATION_BAND,Compensation band expired on or before the analysis date,FLAG_FOR_REVIEW
+ANOM-2-001,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-002,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-003,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-004,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-005,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-006,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-007,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-008,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-009,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-010,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-011,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-012,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-013,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-014,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-015,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-016,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-017,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-018,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-019,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-020,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-021,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-022,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-023,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-024,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-025,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-026,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-027,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-028,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-029,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-030,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-031,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-032,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-033,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-034,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-035,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-036,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-037,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-038,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-039,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-040,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-041,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-042,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-043,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-044,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-045,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-046,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-047,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-048,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-049,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-2-050,FTE_NORMALIZATION_ERROR,Reported normalized salary does not equal salary divided by FTE,FLAG_FOR_REVIEW
+ANOM-3-001,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-002,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-003,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-004,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-005,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-006,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-007,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-008,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-009,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-010,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-011,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-012,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-013,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-014,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-015,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-016,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-017,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-018,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-019,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-020,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-021,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-022,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-023,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-024,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-025,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-026,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-027,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-028,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-029,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-030,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-031,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-032,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-033,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-034,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-035,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-036,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-037,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-038,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-039,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-040,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-041,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-042,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-043,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-044,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-045,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-046,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-047,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-048,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-049,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-3-050,MISSING_FX_RATE,Currency conversion rate is unavailable,FLAG_FOR_REVIEW
+ANOM-4-001,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-002,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-003,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-004,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-005,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-006,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-007,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-008,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-009,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-010,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-011,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-012,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-013,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-014,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-015,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-016,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-017,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-018,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-019,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-020,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-021,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-022,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-023,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-024,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-025,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-026,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-027,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-028,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-029,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-030,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-031,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-032,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-033,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-034,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-035,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-036,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-037,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-038,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-039,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-040,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-041,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-042,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-043,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-044,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-045,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-046,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-047,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-048,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-049,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-4-050,UNAPPROVED_ADJUSTMENT,Adjustment was applied without a recorded approval event,FLAG_FOR_REVIEW
+ANOM-5-001,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-002,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-003,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-004,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-005,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-006,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-007,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-008,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-009,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-010,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-011,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-012,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-013,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-014,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-015,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-016,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-017,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-018,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-019,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-020,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-021,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-022,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-023,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-024,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-025,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-026,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-027,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-028,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-029,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-030,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-031,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-032,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-033,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-034,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-035,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-036,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-037,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-038,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-039,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-040,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-041,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-042,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-043,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-044,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-045,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-046,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-047,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-048,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-049,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
+ANOM-5-050,INCOMPARABLE_ROLE_GROUPING,Multiple roles share a comparison group without documented rationale,FLAG_FOR_REVIEW
