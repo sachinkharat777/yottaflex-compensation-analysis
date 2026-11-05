@@ -566,7 +566,7 @@ Install the following:
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/sachinkharat777/yottaflex-compensation-analysis.git
 cd yottaflex-compensation-analysis
 ```
 
@@ -869,7 +869,7 @@ The project is intended to demonstrate structured problem-solving, data engineer
 
 Project: YottaFlex Compensation Analysis
 
-GitHub: [Add your GitHub profile URL]
+GitHub: https://github.com/sachinkharat777
 
 ---
 
